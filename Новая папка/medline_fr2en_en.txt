@@ -1,0 +1,584 @@
+doc1	1	[Seroprevalence of Toxoplasmosis among Pregnant Women in Benin: Meta-Analysis and Meta-Regression].
+doc1	2	To assess the seroprevalence of toxoplasmosis among pregnant women in Benin, we conducted a meta-analysis using the PRISMA criteria.
+doc1	3	Al research published between 1990 and 2018 on toxoplasmosis among pregnant women Benin were eligible.
+doc1	4	A total of five databases were investigated, and the extracted data were subjected to a meta-analysis under R 3.1 using both random effect model and fixed effect model.
+doc1	5	The overall prevalence of toxoplasma-specific IgG among pregnant women was 47% (CI 95%: 40-53) and that of specific IgM was 2% (CI 95%: 1-3).
+doc1	6	The infection rate in urban areas (52%) was significantly higher than in rural areas (33%).
+doc1	7	The two main risk factors identified by the various eligible studies were the age of the pregnant women and the consumption of raw vegetables.
+doc1	8	We show that toxoplasmosis is endemic in pregnant women in Benin, implying that primary prevention measures must be put in place by the competent authorities to control this infection.
+doc10	1	[Inappropriate red blood cells transfusion].
+doc10	2	International guidelines suggest that a liberal transfusion policy is not only unnecessary but can also prove harmful in certain situations.
+doc10	3	Blood transfusion is a costly act involving risks of infection, allergic and hemodynamic.
+doc10	4	Optimizing the use of this scarce and expensive resource becomes necessary.
+doc10	5	The case report depicts perfectly the potential complications of a transfusion policy considered too liberal, while emphasizing the importance of clinical judgment in each situation.
+doc11	1	[Strategy and stopping smoking interventions in smokers with tuberculosis].
+doc11	2	Tuberculosis (TB) and smoking are causing a heavy mortality worldwide.
+doc11	3	Tobacco smoke increases the risk of Mycobacterium tuberculosis infection and tuberculosis disease, including severe pulmonary tuberculosis, resistant bacilli forms and death from this disease.
+doc11	4	Smoking patients with TB have poorer compliance with treatment of tuberculosis than non-smokers.
+doc11	5	In countries with high TB incidence and smoking prevalence tending to increase, smoking cessation is a means of controlling the TB epidemic.
+doc11	6	Stopping smoking improves the course of tuberculosis and promotes its final cure, it is accompanied by a better therapeutic observance.
+doc11	7	WHO recommended coordination between national tuberculosis and tobacco control programs to optimize control of the TB epidemic.
+doc11	8	The mobilization of health professionals in helping smokers with tuberculosis stopping smoking is required.
+doc12	1	[Facilitating access to somatic care for adults suffering from severe mental disabilities].
+doc12	2	For the purpose of improving the management of somatic disorders among patients suffering from severe intellectual development and autism spectrum disorders, a specific admissions mechanism has been implemented at Geneva University Hospitals (HUG).
+doc12	3	The Adult Psychiatric Hospital Unit (UPHA), a complex intervention unit, collaborates with HUG's Disability Program.
+doc12	4	From May 2018 to May 2019, 29 requests for hospitalizations were accepted.
+doc12	5	These requests primarily originated from private practice physicians (42 %).
+doc12	6	In some cases, immediate admissions were urgently organized, and in others a 13-day waiting period was imposed.
+doc12	7	Hospitalizations were adapted to the patient: more often than not, these were short (48 %), with 6 hospitalizations extended for an average 103-day period.
+doc12	8	A clinical case illustrates the healthcare management provided.
+doc13	1	[The kidneys : possible victims of global warming ?]
+doc13	2	Over the last decades, an increasing number of cases of chronic and end-stage kidney disease has been observed in Central America and Asia.
+doc13	3	This kidney disease mainly affects young farmers without classic renal risk factors.
+doc13	4	The clinical presentation includes a progressive decrease of the glomerular filtration rate, minimal proteinuria and the presence of tubulo-interstitial nephritis at renal biopsy.
+doc13	5	A close link with global warming is suspected for this disease, called (according to its location) meso-american nephropathy, Sri Lanka nephropathy or chronic kidney disease of unknown etiology.
+doc13	6	Others have suggested that intake of water contaminated with pesticides may be responsible.
+doc13	7	This article provides an overview of this new kidney disease.
+doc13	8	Measures to prevent acute kidney injury during heat waves in Switzerland are also discussed.
+doc14	1	[Introduction to symptom networks in psychopathology].
+doc14	2	In this article, we present the main methodological principles of symptom networks in psychopathology.
+doc14	3	It is a topological approach linking entities from different scales of analysis of an individual (from genetics to behavior, via cerebral connectivity).
+doc14	4	They are an alternative to the Diagnostic and Statistical Manual of Mental Disorders (DSM) and Research Domain Criteria (RDoC), but they do not exclude them.
+doc14	5	Symptom networks exceed or circumvent some limits of these classifications.
+doc14	6	Furthermore, they contribute to the stratification and organization of these nosologies.
+doc14	7	Symptom networks exceed or circumvent some limits of these classifications.
+doc14	8	Behind the originality of its methodology, this program proposes a redefinition of mental illness which modifies the conception of psychiatry.
+doc14	9	But their future is still uncertain: they must take on an epistemological and methodological challenge.
+doc14	10	At the same time, they have to convince the community of mental health researchers and clinicians of their utility and value.
+doc15	1	[New method to regulate unscheduled urgent care : the ODISSEE interactive self-triage platform].
+doc15	2	The regulation of the unscheduled care takes part of the different methods engaged to better organize the global demand for unscheduled urgent care among the different levels of care.
+doc15	3	Indeed, the first level of care equally with the emergency departments are facing major patient inflows often exceeding their available resources.
+doc15	4	Technological advances in healthcare and spreading of medical information reveal themselves as precursors of new adaptive strategies and daily challenges.
+doc15	5	The creation of an interactive app for patients self-triage through the different levels of care involves those different concepts.
+doc15	6	We created a new interactive platform, the ODISSEE mobile application (Outil Décisionnel et Informatif des Structures de Soins Efficientes Existantes), to allow patient's self-triage to the best level of care.
+doc15	7	The protocols used were directly based on a previously validated tool with a 5-year experience in our institution, the SALOMON algorithm (Système Algorithmique Liégeois d'Orientation pour la Médecine Omnipraticienne Nocturne).
+doc15	8	Establishment of interactive self-triage platform to guide patients to the best level of care could potentially be a promising tool to improve the regulation of unscheduled urgent care.
+doc16	1	[Segmental overgrowth syndromes and therapeutic strategies].
+doc16	2	Overgrowth syndromes are a large group of rare disorders characterized by generalized or segmental excessive growth.
+doc16	3	Segmental overgrowth syndromes are mainly due to genetic anomalies appearing during the embryogenesis and leading to mosaicism.
+doc16	4	The numbers of patients with segmental overgrowth with an identified molecular defect has dramatically increased following the recent advances in molecular genetic using next-generation sequencing approaches.
+doc16	5	This review discusses various syndromes and pathways involved in segmental overgrowth syndromes and presents actual and future therapeutic strategies.
+doc17	1	[Managing an autistic child].
+doc17	2	Managing an autistic child.
+doc17	3	General practitioners and pediatricians are on the front line not only to detect atypical developmental trajectories in children but also to guide functional evaluation to facilitate early interventions.
+doc17	4	They have to inform parents and to guide them toward specialized professionals where further multidisciplinary evaluation will be conducted to define an individualized early intervention program.
+doc17	5	It is admitted that early intervention is a factor of better prognosis in autism.
+doc17	6	To help starting early intervention, general practitioners have to be aware of the recent knowledge in clinical aspects of social and communication abilities development but also in the different evaluations and therapeutic interventions which are recommended.
+doc17	7	General practitioners and pediatricians will keep up following the child evolution as part of the childcare team with parents and specialized professionals.
+doc18	1	[Definition and roles of the gut microbiota].
+doc18	2	Definition and roles of the gut microbiota.
+doc18	3	The gut microbiota is the set of microorganisms that colonize our digestive tract.
+doc18	4	A human being hosts 1013 bacteria in his gastro-intestinal tract, as much as human cells in his body.
+doc18	5	The microbiota contains bacteria but also fungi, viruses and protists.
+doc18	6	The microbiota settles gradually after birth is considered adult around the age of 3 years.
+doc18	7	The microbiota can be modulated by many environmental factors and by the genetics of the host.
+doc18	8	An unbalanced microbiota (dysbiotic) is observed in many human diseases and plays a role in many of them, with however unequal weight from one disease to another.
+doc18	9	The microbiota could, in the near future, serve as a diagnostic and prognostic biomarker.
+doc18	10	It is already considered a potential therapeutic tool or target.
+doc19	1	The differential impact of HIV and antiretroviral therapy on gender-specific tuberculosis rates.
+doc19	2	OBJECTIVE
+doc19	3	To assess the impact of the HIV epidemic and the rollout of antiretroviral therapy (ART) from 2004 on the gender-specific TB burden in Cape Town, we investigated temporal changes in TB notification rates, the HIV-associated relative risk of TB and the population attributable risk fraction (PAF) of HIV by gender.
+doc19	4	METHODS
+doc19	5	Annual TB notifications, mid-year population and HIV prevalence estimates were used to calculate rates per 100 000 population stratified by gender and HIV.
+doc19	6	Annual rate ratios (RR) of TB associated with HIV and PAF were calculated by gender.
+doc19	7	RESULTS
+doc19	8	Pre-HIV TB notification rates were lower among women than men (146/100 000 vs. 247/100 000).
+doc19	9	With the onset of the HIV, epidemic rates increased 5.3-fold in women (to 778/100 000) and 3.7-fold in men (to 917/100 000) to a peak in 2008, after which they declined by 25% in women (to 634/100 000) and 18% in men (to 755/100 000) by 2014.
+doc19	10	The HIV-associated RR of TB was 25% higher in women than in men in 2006 (25 vs. 20), but decreased to the same level in 2014.
+doc19	11	HIV PAF declined between 2008 and 2014 from 56% to 50% and from 40% to 38% in women and men, respectively.
+doc19	12	CONCLUSIONS
+doc19	13	The HIV epidemic led to greater relative increases in TB rates among women than men.
+doc19	14	The increased HIV-associated TB risk in women could be compatible with removal of the biological protection of female gender by HIV infection.
+doc19	15	The decline in RR and PAF in HIV-positive women could be explained by increasing ART usage reversing female gender-related susceptibility.
+doc2	1	[Unraveling the pathophysiology of Bethlem Myopathy using a unique zebrafish model for the disease].
+doc2	2	Bethlem myopathy (BM) is a neuromuscular disease characterized by joint contractures and muscle weakness.
+doc2	3	BM is caused by mutations in one of the genes encoding one of the three α-chains of collagen VI (COLVI), a component of the skeletal muscle extracellular matrix.
+doc2	4	Nowadays, an unresolved question is to understand how alteration of COLVI located outside the muscle cells leads to functional modifications in muscle fibers.
+doc2	5	The zebrafish model col6a1Δex14 is currently the unique animal model of the disease since it is the only model to reproduce a mutation that is the most frequently found in BM patients.
+doc2	6	In patient and col6a1Δex14 zebrafish muscles, the structure of the sarcoplasmic reticulum has been found to be altered, thus suggesting dysfunction in intracellular Ca2+ handling and/or in ion channels that are known to control Ca2+ homeostasis and to play pivotal roles in muscle function and pathogenesis.
+doc2	7	Therefore, our project aims at exploring the properties of ion channels and intracellular Ca2+ regulation using electrophysiological approaches and intracellular Ca2+ measurement at rest and during activity in isolated muscle fibers from col6a1Δex14 zebrafish.
+doc2	8	On one hand, this project should contribute to decipher how alteration in an extracellular matrix component transduces pathogenic signals within muscle fiber and should possibly lead to identify therapeutic targets for this currently incurable disease.
+doc2	9	On the other hand, because functional studies on zebrafish muscle cells are scarce, this project will provide a sound database on the electrophysiological properties of this cell model.
+doc20	1	Infection control practices in blood banks of Pakistan.
+doc20	2	Background
+doc20	3	Implementation of infection control standards in blood banks is important to prevent transmission of blood-borne infections such as HIV, hepatitis B and Hepatitis C.
+doc20	4	No study from Pakistan evaluated the infection control practices in the blood banks of Pakistan.
+doc20	5	Aims
+doc20	6	This study aimed to evaluate infection control practices with reference to safe blood supply, staff safety and waste disposal practices in blood banks of Karachi, Pakistan.
+doc20	7	Methods
+doc20	8	This was a cross-sectional study.
+doc20	9	Infection control practices of all blood banks working in Karachi were determined through a structured questionnaire followed by an educational intervention.
+doc20	10	Mean scores for overall infection control practices and specific practices regarding safe blood supply, staff safety and waste disposal were calculated and compared with different factors using statistical tools.
+doc20	11	Results
+doc20	12	Patient safety scores of 49 (92.5%) blood banks were within the satisfactory range but staff safety and waste disposal scores of only 26 (49.1%) and 4 (7.5%) blood banks were satisfactory.
+doc20	13	Significantly lower infection control (IC) scores were observed for stand-alone blood banks and those working in the absence of a haematologist (P-value < 0.001).
+doc20	14	Availability of written standard operating procedures (SOPs) and IC guidelines correlated positively (P-value < 0.001) with mean IC scores.
+doc20	15	Conclusions
+doc20	16	Blood banks in Karachi lack implementation of IC standards particularly with reference to staff safety and waste management and disposal.
+doc20	17	Sindh blood transfusion authority (SBTA) should take measures to increase IC compliance within blood banks.
+doc21	1	Perceived and Objective Kidney Disease Knowledge in Patients With Advanced CKD Followed in a Multidisciplinary CKD Clinic.
+doc21	2	Background
+doc21	3	One of the key components of multidisciplinary CKD clinics is education; however, kidney disease knowledge among patients followed in these clinics is not routinely measured.
+doc21	4	Objective
+doc21	5	The aim of this study was to determine objective and perceived kidney disease knowledge and patient characteristics associated with knowledge among patients followed in a multi-care kidney clinic.
+doc21	6	Design
+doc21	7	This is a cross-sectional survey study.
+doc21	8	Setting
+doc21	9	This study was conducted in a multi-care kidney clinic in Ontario, Canada.
+doc21	10	Patients
+doc21	11	Patients who did not speak English, who were unable to read due to significant vision impairment, or who had a known history of dementia or significant cognitive impairment were excluded.
+doc21	12	Measurements
+doc21	13	Perceived kidney disease knowledge was evaluated using a previously validated 9-item survey (PiKS).
+doc21	14	"Each question on the perceived knowledge survey had 4 possible responses, ranging from ""I donot know anything"" (1) to ""I know a lot"" (4).
+doc21	15	Objective kidney disease knowledge was evaluated using a previously validated survey (KiKS)."
+doc21	16	Methods
+doc21	17	The association between patient characteristics and perceived and objective kidney disease knowledge was determined using linear regression.
+doc21	18	Results
+doc21	19	A total of 125 patients were included, 57% were male, the mean (SD) age and eGFR were 66 (13) years and 16 (5.9) mL/min/1.73 m2, respectively.
+doc21	20	The median (IQR) objective and perceived knowledge survey scores were 19 out of 27 (16, 21) and 2.9 out of 4 (2.4, 3.2), respectively.
+doc21	21	Only 25% of patients answered correctly that CKD can be associated with no symptoms, and 64% of patients identified correctly that the kidneys make urine.
+doc21	22	More than 60% of patients perceived themselves to know nothing or only a little about medications that help or hurt the kidney.
+doc21	23	Older age was independently associated with lower perceived and objective knowledge, but sex, income, and educational attainment were not.
+doc21	24	Limitations
+doc21	25	This is a single-center study.
+doc21	26	Cognitive impairment was based on the treating team's informal assessment or prior documentation in the chart; formal cognitive testing was not performed as part of this study.
+doc21	27	Conclusions
+doc21	28	Despite resource-intensive care, CKD knowledge of patients followed in a multidisciplinary clinic was found to be modest.
+doc21	29	Whether enhanced educational strategies can improve knowledge and whether increasing knowledge improves patient outcomes warrants further study.
+doc22	1	Reproductive justice for incarcerated mothers and advocacy for their infants and young children.
+doc22	2	The United States has seen unprecedented growth in the number of incarcerated women, most of whom are mothers with minor children.
+doc22	3	Major public health concerns relate to the reproductive health of women in prisons and jails and the well-being of their infants and young children.
+doc22	4	In the current article, we use a reproductive justice framework to examine the intersection of incarceration and maternal and child health.
+doc22	5	We review (a) current research on the reproductive health of incarcerated women, (b) characteristics and experiences of pregnant incarcerated women, (c) outcomes of infants and young children with incarcerated parents, (d) implications of research findings for policy and practice, and (e) the need for increased research, public education, and advocacy.
+doc22	6	We strongly recommend that correctional policies and practices be updated to address the common misconceptions and biases as well as the unique vulnerabilities and health needs of incarcerated women and their young children.
+doc23	1	High-risk medications in older patients with trauma: a cross-sectional study of risk mitigation
+doc23	2	Background
+doc23	3	The Beers Criteria for Potentially Inappropriate Medication Use inOlder Adults is a framework that can assess the nature of high-risk medication use.
+doc23	4	The objective of this study was to use the Beers Criteria to assess the prevalence and nature of polypharmacy, the magnitude of medication changes during the hospital stay and the impact of Beers Criteria medications on outcomes in older patients with trauma.
+doc23	5	Methods
+doc23	6	We used the Alberta Trauma Registry to conduct a retrospective review of patients aged 65 years or older with major trauma (Injury Severity Score ≥ 12) who were admitted to a level 1 trauma centre between January 2013 and December 2014.
+doc23	7	We analyzed changes in medication prescriptions during the hospital stay using descriptive statistics and assessed the association between Beers Criteria medications and relevant outcomes using multivariable regression analysis.
+doc23	8	Results
+doc23	9	There was no significant change in the number of Beers Criteria medications prescribed before and after admission.
+doc23	10	The adjusted odds ratio for 30-day mortality for each additional Beers Criteria medication prescribed was 2.02 (95% confidence interval [CI] 1.16–3.51) versus 1.24 (95% CI 1.04–1.59) for each additional medication of any type.
+doc23	11	The corresponding adjusted incidence rate ratios for length of stay were 1.15 (95% CI 1.03–1.30) versus 1.05 (95% CI 1.01–1.10).
+doc23	12	Conclusion
+doc23	13	Beers Criteria medications were not discontinued during trauma admissions.
+doc23	14	Using the Beers Criteria as a process indicator for quality improvement in trauma care may provide interdisciplinary trauma teams an opportunity to audit patient medications and stop potentially harmful medications in a vulnerable population.
+doc24	1	Ivermectin for causal malaria prophylaxis: a randomised controlled human infection trial.
+doc24	2	OBJECTIVE
+doc24	3	Ivermectin is safe and widely used for treating helminth infections.
+doc24	4	It also kills arthropods feeding on treated subjects, including malaria vectors.
+doc24	5	Thus, ivermectin mass drug administration as an additional tool for malaria control is being evaluated by WHO.
+doc24	6	As in vitro data, animal experiments and epidemiological observations suggest that ivermectin has a direct effect on the liver stages of the malaria parasite, this study was designed to assess the prophylactic effect of ivermectin on Plasmodium falciparum controlled human malaria infection.
+doc24	7	METHODS
+doc24	8	A total of 4 volunteers were randomised to placebo, and 8 volunteers were randomised to receive ivermectin 0.4 mg/kg, orally, once 2 h before being experimentally infected intravenously with 3200 P. falciparum sporozoites.
+doc24	9	The primary endpoint was time to parasitaemia detected by positive thick blood smear; RT-qPCR was performed in parallel.
+doc24	10	RESULTS
+doc24	11	All but one volunteer became thick blood smear positive between day 11 and day 12 after infection, and there was no significant effect of ivermectin on parasitaemia.
+doc24	12	CONCLUSION
+doc24	13	Ivermectin - at the dose used - has no clinically relevant activity against the pre-erythrocytic stages of P. falciparum.
+doc25	1	Task sharing for family planning services, Burkina Faso.
+doc25	2	Problem
+doc25	3	In Burkina Faso, the coverage of services for family planning is low due to shortage of qualified health staff and limited access to services.
+doc25	4	Approach
+doc25	5	Following the launch of the Ouagadougou Partnership, an alliance to catalyse the expansion of family planning services, the health ministry created a consortium of family planning stakeholders in 2011.
+doc25	6	The consortium adopted a collaborative framework to implement a pilot project for task sharing in family planning at community and primary health-care centre levels in two rural districts.
+doc25	7	Stakeholders were responsible for their areas of expertise.
+doc25	8	These areas included advocacy; monitoring and evaluation; and capacity development of community health workers (CHWs) to offer oral and injectable contraceptives to new users and of auxiliary nurses and auxiliary midwives to provide implants and intrauterine devices.
+doc25	9	The health ministry implemented supportive supervision cascades involving relevant planning and service levels.
+doc25	10	Local setting
+doc25	11	In Burkina Faso, only 15% (2563/17 087) of married women used modern contraceptives in 2010.
+doc25	12	Relevant changes
+doc25	13	Adoption of new policies and clinical care standards expanded task sharing roles in family planning.
+doc25	14	The consortium trained a total of 79 CHWs and 124 auxiliary nurses and midwives.
+doc25	15	Between January 2017 and December 2018, CHWs provided injectables to 3698 new users, and auxiliary nurses or midwives provided 726 intrauterine devices and 2574 implants to new users.
+doc25	16	No safety issues were reported.
+doc25	17	Lessons learnt
+doc25	18	The pilot project was feasible and safe, however, financial constraints are hindering scale-up efforts.
+doc25	19	Supportive supervision cascades were critical in ensuring success.
+doc26	1	Changes in reporting for unintentional injury deaths, United States of America.
+doc26	2	Objective
+doc26	3	To quantify how changes in reporting of specific causes of death and of selecting underlying cause from among multiple causes of death contribute to trends in mortality from unintentional injury in Americans aged 65 years or older.
+doc26	4	Methods
+doc26	5	We extracted age-standardized unintentional injury mortality data in the United States Centers for Disease Control and Prevention online databases from 1999 to 2016.
+doc26	6	We used an attribution method to calculate two indicators: the proportion of mortality with specific codes out of all mortality; and the proportion of mortality with underlying cause of death selected from multiple causes of death.
+doc26	7	We conducted a linear regression to examine the changes over time in these proportions and in reported and age-adjusted mortality.
+doc26	8	Findings
+doc26	9	From 1999 through 2016, the proportion of cause-specific unintentional injury mortality in this age group increased from 74% in 1999 (136.9 out of 185.0 per 100 000 population) to 85% in 2016 (143.0 out of 169.1 per 100 000 population) based on multiple causes of death codes.
+doc26	10	The proportions of mortality with underlying cause of death selected out of multiple causes of death rose in all specific causes of unintentional injury except motor vehicle crash.
+doc26	11	Age-standardized mortality attributed to reporting changes increased steadily between 1999 and 2016.
+doc26	12	The increases for overall unintentional injury, fall, motor vehicle crash, suffocation, poisoning and fire or hot object were 24.2, 13.5, 2.1, 2.3, 1.6 and 0.4 deaths per 100 000 persons, respectively.
+doc26	13	Conclusion
+doc26	14	Changes in data reporting affect trends in overall and specific unintentional injury mortality over time for older Americans.
+doc27	1	The Impact of Delaying Breast Reconstruction on Patient Expectations and Health-Related Quality of Life: An Analysis Using the BREAST-Q.
+doc27	2	Purpose
+doc27	3	An understanding of patient expectations predicts better health outcomes following breast reconstruction.
+doc27	4	No study to date has examined how patient expectations for breast reconstruction and preoperative health-related quality of life vary with time since breast cancer diagnosis.
+doc27	5	Methods
+doc27	6	Women consulting for breast reconstruction to a single surgeon's practice over a 13-month period were enrolled in this cross-sectional study.
+doc27	7	Patients were asked to prospectively complete the BREAST-Q expectations and preoperative reconstruction modules.
+doc27	8	A retrospective chart review was then performed on eligible patients, and patient demographics, cancer-related factors, and comorbidities were collected.
+doc27	9	BREAST-Q scores were transformed using the equivalent Rasch method.
+doc27	10	Multivariate linear regression models were constructed to assess the association between BREAST-Q scores and time since cancer diagnosis.
+doc27	11	Results
+doc27	12	Sixty-five patients met inclusion criteria for analysis and are characterized by a mean age of 53 ± 11 (34-79) years and a mean body mass index of 28 ± 6 (19-49).
+doc27	13	Most patients were treated by mastectomy (58%) or lumpectomy (23%).
+doc27	14	At the time of retrospective chart review, 29 (43%) patients had undergone reconstruction, most of which were delayed (59%).
+doc27	15	The mean latency from cancer diagnosis to reconstruction was 685 ± 867 days (range: 28-3322 days).
+doc27	16	Latency from cancer diagnosis to reconstruction was associated with a greater expectation of pain (β = 0.5; standard error [SE] = 0.005; 95% confidence interval [CI]: 0.003-0.027; P < .05), and a slower expectation for recovery (β = -0.5; SE = 0.004; 95% CI: -0.021 to -0.001; P < .05) after breast reconstruction.
+doc27	17	Latency from cancer diagnosis to reconstruction was associated with an increase in preoperative psychosocial well-being (β = 0.578; SE 0.009; 95% CI: 0.002-0.046; P < .05).
+doc27	18	Conclusion
+doc27	19	Delaying breast reconstruction may negatively impact patient expectations of postoperative pain and recovery.
+doc27	20	Educational interventions aimed at understanding and managing patient expectations in the preoperative period may improve health-related quality of life and patient-related outcomes following initial breast cancer surgery.
+doc28	1	Mothers' and fathers' joint profiles for testosterone and oxytocin in a small-scale fishing-farming community: Variation based on marital conflict and paternal contributions.
+doc28	2	INTRODUCTION
+doc28	3	Testosterone and oxytocin are psychobiological mechanisms that interrelate with relationship quality between parents and the quantity and quality of parenting behaviors, thereby affecting child outcomes.
+doc28	4	Their joint production based on family dynamics has rarely been tested, particularly cross-culturally.
+doc28	5	METHODS
+doc28	6	We explored family function and salivary testosterone and oxytocin in mothers and fathers in a small-scale, fishing-farming society in Republic of the Congo.
+doc28	7	Fathers ranked one another in three domains of family life pertaining to the local cultural model of fatherhood.
+doc28	8	RESULTS
+doc28	9	Fathers who were viewed as better providers had relatively lower oxytocin and higher testosterone than men seen as poorer providers, who had lower testosterone and higher oxytocin.
+doc28	10	Fathers also had higher testosterone and lower oxytocin in marriages with more conflict, while those who had less marital conflict had reduced testosterone and higher oxytocin.
+doc28	11	In contrast, mothers in conflicted marriages showed the opposite profiles of relatively lower testosterone and higher oxytocin.
+doc28	12	Mothers had higher oxytocin and lower testosterone if fathers were uninvolved as direct caregivers, while mothers showed an opposing pattern for the two hormones if fathers were seen as involved with direct care.
+doc28	13	CONCLUSIONS
+doc28	14	These results shed new light on parents' dual oxytocin and testosterone profiles in a small-scale society setting and highlight the flexibility of human parental psychobiology when fathers' roles and functions within families differ across cultures.
+doc29	1	Tobacco smoke exposure and sleep: estimating the association of urinary cotinine with sleep quality.
+doc29	2	INTRODUCTION
+doc29	3	A majority of studies on tobacco smoke exposure and sleep quality have relied on self-reported smoking, resulting in potential exposure misclassification and biases related to self-report.
+doc29	4	The objective of this study was to investigate associations between urinary cotinine, a biological marker of tobacco smoke exposure, and sleep quality measures, including sleep duration, sleep continuity or efficiency, sleep satisfaction and alertness during normal waking hours.
+doc29	5	METHODS
+doc29	6	Using data on a national sample of 10 806 adults (aged 18-79 years) from the Canadian Health Measures Survey (2007-2013), we performed binary logistic regression analyses to estimate associations between urinary cotinine concentrations and sleep quality measures, while controlling for potential confounders.
+doc29	7	Additionally, we performed ordinal logistic regression to assess the association between urinary cotinine concentrations and increased number of sleep problems.
+doc29	8	RESULTS
+doc29	9	Overall, 28.7% of adult Canadian survey respondents had urinary cotinine concentrations above the limit of detection (LOD), nd the prevalence of each sleep problem ranged from 5.5% to 35.6%.
+doc29	10	Elevated urinary cotinine concentrations (quartile 4 vs. <LOD) were associated with significantly higher odds of short or long sleep duration (OR = 1.41; 95% CI: 1.02-1.95; p-trend = .021), trouble falling or staying asleep (OR = 1.71; 95% CI: 1.28-2.27; p-trend = .003), sleep dissatisfaction (OR = 1.87; 95% CI: 1.21-2.89; p-trend = .011), and increased number of sleep problems (OR = 1.64; 95% CI: 1.19-2.26; p-trend = .001).
+doc29	11	Stronger associations were observed among females compared to males.
+doc29	12	CONCLUSION
+doc29	13	Using a biological marker of tobacco smoke exposure, our study contributes to the body of literature of toxic environmental exposures on sleep quality by supporting an association between tobacco smoke exposure and poorer sleep quality.
+doc29	14	To address the limitations of a cross-sectional study design and to better assess the temporality of tobacco smoke exposure and sleep quality, longitudinal studies are recommended.
+doc29	15	Highlights
+doc29	16	Over a quarter of study participants had detectable urinary cotinine levels, indicating that a large proportion of Canadian adults are likely exposed to tobacco smoke actively or passively.
+doc29	17	Poor sleep quality is a commonly reported problem, with approximately a third of adult survey respondents not meeting the recommended sleep duration guidelines.
+doc29	18	Elevated levels of urinary cotinine are associated with higher odds of short or long sleep duration, trouble falling or staying asleep, sleep dissatisfaction and overall increased sleep problems.
+doc29	19	The associations between increased urinary cotinine levels and poor sleep quality were stronger in females compared to males.
+doc3	1	[Determining the dose to be injected in the first clinical trials with monoclonal antibodies: not so easy!]
+doc3	2	Monoclonal antibodies are a therapeutic tool frequently used in oncology, as they allow the specific targeting of molecules expressed by cancer cells and, in most cases, induce minimal toxic effects on healthy tissues.
+doc3	3	Because monoclonal antibodies frequently lack significant toxicity and are not associated to a direct relationship between dose and effect, the methods of clinical development traditionally used for chemotherapy agents are scarcely useful for this class of drugs.
+doc3	4	In addition, no consensus exists on the definition of parameters different from toxicity that could assist the process of dose selection of monoclonal antibody in early clinical trials.
+doc30	1	Use of the Mulligan concept in the treatment of lateral ankle sprains in the active population: an exploratory prospective case series.
+doc30	2	Introduction
+doc30	3	Patients classified with ankle sprains are commonly treated with a multimode intervention approach.
+doc30	4	Currently, protection and tissue healing are the most accepted forms of care for these patients.
+doc30	5	Case presentation
+doc30	6	Six patients (4 male, 2 female) 20.2 ± 1.3 years of age were classified with acute grade I lateral ankle sprains (LAS).
+doc30	7	Each patient was treated with either the Fibular Mobilization with Movement (FMWM) or Modified Fibular Mobilization with Movement (MFMWM).
+doc30	8	Management and outcome
+doc30	9	The clinical outcomes for the patients treated with both fibula MWM improved and patients returned to activity levels at about three days after three treatments.
+doc30	10	Discussion
+doc30	11	As medicine continues to advance and explore new theories for rehabilitative clinical practice it is necessary to assess interventions on patients.
+doc30	12	This prospective exploratory case series was written to share a clinical intervention, Mulligan Concept, and the outcomes that occurred in the patients with a lateral ankle sprain.
+doc31	1	Improving coverage of civil registration and vital statistics, Bangladesh.
+doc31	2	Problem
+doc31	3	Bangladesh has no national system for registering deaths and determining their causes.
+doc31	4	As a result, policy-makers lack reliable and complete data to inform public health decisions.
+doc31	5	Approach
+doc31	6	In 2016, the government of Bangladesh introduced a pilot project to strengthen the civil registration and vital statistics system and generate cause of death data in Kaliganj Upazila.
+doc31	7	Community-based health workers were trained to notify births and deaths to the civil registrar, and to conduct verbal autopsy interviews with family members of a deceased person.
+doc31	8	International experts in cause-of-death certification and coding trained master trainers on how to complete the international medical certificate of cause of death.
+doc31	9	These trainers then trained physicians and coders.
+doc31	10	Local setting
+doc31	11	Kaliganj Upazila has an estimated population of 304 600, and 5600 births and 1550 deaths annually.
+doc31	12	Health assistants and family welfare assistants make regular visits to households to track certain health outcomes.
+doc31	13	Relevant changes
+doc31	14	Following the start of the project in 2016, the number of births registered within 45 days rose from 873 to 4630 in 2018.
+doc31	15	The number of deaths registered within 45 days increased from 458 to 1404.
+doc31	16	During this period, health assistants conducted 7837 verbal autopsy interviews.
+doc31	17	Between January 2017 and December 2018, 105 master trainers and more than 7000 physicians were trained to complete the international medical certificate of cause of death and they completed more than 12 000 certificates.
+doc31	18	Lessons learnt
+doc31	19	Training community-based health workers, physicians and coders were successful approaches to improve death registration completeness and availability of cause-of-death data.
+doc32	1	Gender balance in WHO panels for guidelines published from 2008 to 2018.
+doc32	2	Objective
+doc32	3	To assess the gender composition of guideline contributors for all World Health Organization (WHO) guidelines published from 2008 to 2018.
+doc32	4	Methods
+doc32	5	We searched for guidelines in the WHO Guideline Review Committee database.
+doc32	6	We extracted data about the guidelines (title, publication year) and individuals participating (name, role, gender).
+doc32	7	Guideline roles included: member or chair of guideline development group, WHO steering group, external reviewer or methodologist.
+doc32	8	We used descriptive statistics to analyse gender composition for each role and the proportion of guideline development group members and chairs who were female.
+doc32	9	Findings
+doc32	10	We included 230 guidelines involving 13 329 individuals: 219 guidelines (95.2%) reported a guideline development group (4912 individuals).
+doc32	11	More group members were male (2606; 53.1%) than female (2241; 45.5%).
+doc32	12	The median proportion of female members per guideline was 47.1% (interquartile range: 35.7-56.3).
+doc32	13	Half of the guidelines (110; 50.2%) had a development group composed of 40.1-60% females and 75 guidelines (34.2%) had ≤ 40% females in the group.
+doc32	14	From 2016 to 2018, there were some improvements: one quarter of groups were composed of ≤ 40.0% females in 2016 and 2017, and this reduced to 9.1% in 2018.
+doc32	15	Among 243 group chairs, 145 (59.7%) were male and 96 (39.5%) were female.
+doc32	16	Conclusion
+doc32	17	Participation on a guideline panel is a prestigious leadership role in global health.
+doc32	18	The under-representation of women across most WHO guideline roles shows that inequalities persist even where standards and policies call for gender balance.
+doc32	19	Attention can be shifted to strengthening accountability mechanisms and understanding the root causes of this imbalance.
+doc33	1	At-a-glance - Pollens, climate and allergies: Quebec initiatives.
+doc33	2	Pollen allergies are a major source of seasonal allergic rhinitis in North America.
+doc33	3	This type of rhinitis affects 17% of adults in Quebec, a marked increase in the last 30 years.
+doc33	4	Ragweed (Ambrosia artemisiifolia L.) pollens are responsible for 50% to 90% of rhinitis cases.
+doc33	5	Climate change has played a significant role in the increased prevalence of seasonal allergic rhinitis over the last few decades.
+doc33	6	In 2015, the Quebec government put in place a strategy to tackle this problem, the Stratégie québécoise de réduction de l'herbe à poux et des autres pollens allergènes [Quebec strategy to reduce ragweed and other allergenic pollens].
+doc33	7	Based on solid evidence, the Strategy advocates for co-operation between stakeholders and the integration of control measures into the maintenance practices of municipalities and other large public and private landowners.
+doc33	8	This article presents the scientific data underpinning the Strategy and initial successes of the action taken under the Strategy.
+doc33	9	Highlights
+doc33	10	Climate change increases the quantities and allergenic potential of ragweed pollen.
+doc33	11	 Seasonal allergic rhinitis caused by these pollens has increased significantly in North America.
+doc33	12	 Simple environmental control methods can clinically decrease the impact of ragweed pollen.
+doc33	13	A coordinated policy that incorporates these control measures in municipalities’ groundskeeping practices is being implemented in Quebec.
+doc34	1	Studies over the last decade have transformed our previously simplistic view of microbes, having only a pathogenic role in disease to a more robust understanding that they are critical for maintaining human health.
+doc34	2	Indeed, our microbiota-the collection of commensal organisms that live in and on each of us-contributes to nearly every facet of host physiology, from ontogeny of the immune system to neurological function to metabolism.
+doc34	3	Although the specific details of these host-microbe interactions are still being elucidated for most diseases, the coupling of clinical samples with animal models of disease have provided key insights.
+doc34	4	This review provides some general background on the microbiota, highlights a few examples of how the microbiota influences diseases of the central nervous system, and provides a perspective for how these findings may be clinically translatable.
+doc35	1	Effects of a single paracetamol injection on the sevoflurane minimum alveolar concentration in dogs.
+doc35	2	This study aimed to determine the effect of a single injection of paracetamol on the sevoflurane minimum alveolar concentration (MAC) response to noxious mechanical stimulation.
+doc35	3	Seven healthy adult beagles were enrolled in a prospective, randomized, blinded, crossover experimental study.
+doc35	4	Anesthesia was induced with propofol [11.6 ± 2.4 mg/kg body weight (BW)] and maintained with sevoflurane.
+doc35	5	The MAC was determined before (MAC-1) and after (MAC-2) treatment with 15 mg/kg BW of intravenous (IV) paracetamol or saline over 15 minutes.
+doc35	6	Samples for plasma paracetamol determination were collected immediately after IV treatment administration and following MAC-2 determination (123 ± 27 minutes after starting paracetamol administration).
+doc35	7	The MAC-1 was similar between treatments (1.7% ± 0.4%).
+doc35	8	There were no differences between control and paracetamol groups at MAC-2 (2.0% ± 0.4% and 1.7% ± 0.5%, respectively; P = 0.285).
+doc35	9	Paracetamol plasma concentrations after paracetamol administration were 34.5 ± 9.9 μg/mL, decreasing at the end of the procedure (8.5 ± 4.2 μg/mL).
+doc35	10	In conclusion, 15 mg/kg BW of IV paracetamol did not significantly reduce sevoflurane MAC in healthy dogs.
+doc36	1	Epidemiological study of Middle East respiratory syndrome coronavirus infection in dromedary camels in Saudi Arabia, April-May 2015.
+doc36	2	A cross-sectional study was conducted in five regions in Saudi Arabia to investigate the epidemiology of Middle East respiratory syndrome coronavirus (MERS-CoV) infection in dromedary camels (Camelus dromedarius) during April and May2015.
+doc36	3	Serum and nasal swab samples were tested for MERS-CoV antibodies andribonucleic acid (RNA) using a recombinant enzyme-linked immunosorbent assay (rELISA) and real-time reverse-transcription polymerase chain reaction (rRT-PCR), respectively.
+doc36	4	The overall MERS-CoV antibody seroprevalence was 80.5%, whereas the overall viral RNA prevalence was 2.4%.
+doc36	5	The associations of risk factors with each prevalence were quantified using univariate and multivariate analyses.
+doc36	6	The multivariate models identified region, age, grazing system, exposure to wild animals and dung removal as factors significantly associated with seroprevalence (p ??0.05).
+doc36	7	A higher seroprevalence was more likely to occur in camels from the Riyadh, Eastern, Northern and Makkah regions than those from the Jazan region; camels ??4 and 1-3 years of age (marginally significant) than calves < 1 year; and camels raised in zero grazing and semi-open grazing systems than those raised in an open grazing system.
+doc36	8	However, the presence of wild animals and daily dung removal were negatively associated with seroprevalence.
+doc36	9	On the other hand, region and sex were significantly associated with MERS-CoV RNA prevalence(p ??0.05).
+doc36	10	A higher viral RNA prevalence was more likely to occur in camels from the Riyadh region and Eastern region (marginally significant) than in those from the Makkah region, and in male camels than female camels.
+doc36	11	In conclusion, the risk factors identified in this study can be considered to be predictors of MERS-CoV infection in camels and should be taken into account when developing an efficient and cost-effective control strategy.
+doc37	1	Enhancing surveillance for early detection of Zika virus infection: strategies for the countries of Eastern Mediterranean Region.
+doc37	2	Background
+doc37	3	Zika virus infection (ZIKV) has caused major outbreaks in tropic and sub-tropic areas.
+doc37	4	No case from ZIKV has yet been reported in the countries of the Eastern Mediterranean Region (EMR) despite the presence of competent vector Aedes mosquitoes in many of these countries.
+doc37	5	Aims
+doc37	6	This study addresses appropriate surveillance strategies for early detection of ZIKV infection, which is important for EMR countries with established Aedes populations, but with no known or documented autochthonous transmission of ZIKV.
+doc37	7	Methods
+doc37	8	The WHO Regional Office for the Eastern Mediterranean developed a strategic framework for enhancing surveillance for ZIKV infection in EMR countries with established Aedes populations through a consultative process and review of available evidence.
+doc37	9	Results
+doc37	10	The framework calls for enhancing surveillance for early detection of ZIKV infection using a combination of both syndromic and event-based surveillance approaches.
+doc37	11	Conclusions
+doc37	12	Enhancing surveillance for ZIKAV would require no shift in the existing system.
+doc37	13	A number of considerations would be required to integrate this syndromic and event-based surveillance approaches within the existing system.
+doc38	1	Comparison of time-restricted feeding and Islamic fasting: a scoping review.
+doc38	2	Background
+doc38	3	Research on the health benefits of fasting is growing; this includes time-restricted feeding and Islamic fasting.
+doc38	4	Aims
+doc38	5	This article aims to review and highlight the similarities and differences between time-restricted feeding and Islamic fasting during Ramadan.
+doc38	6	Methods
+doc38	7	A scoping review was undertaken to identify relevant articles that answered the research question: what are the similarities and differences in characteristics of time-restricted feeding and Islamic fasting?
+doc38	8	MEDLINE/PubMed was searched using the terms: time-restricted feeding, and weight.
+doc38	9	Inclusion criteria were: original research and review articles; written in English; and published between the years 2000 and 2017.
+doc38	10	Results
+doc38	11	A total of 25 articles that answered the research question were included in the review: 15 original research papers and 10 reviews.
+doc38	12	The findings suggest that Ramadan fasting is a form of time-restricted feeding in the contemporary context because of the period when eating is not allowed.
+doc38	13	The fasting duration reported in time-restricted feeding ranged from 4 to 24 hours, which is longer than that of Islamic fasting which is between 8 and 20 hours.
+doc38	14	Both time-restricted feeding and Islamic fasting have been found to have positive health effects, including weight reduction.
+doc38	15	Conclusion
+doc38	16	Time-restricted feeding and Islamic fasting have many similar characteristics and reported positive health effects.
+doc39	1	Feasibility and Safety of IUD Insertion by Mid-Level Providers in Sub-Saharan Africa.
+doc39	2	CONTEXT
+doc39	3	The copper IUD is safe and effective, but underutilized in Sub-Saharan Africa, in part because of a lack of trained providers.
+doc39	4	The World Health Organization recommends training mid-level providers-including nurses and midwives-to insert IUDs; however, the safety of such task shifting has not been evaluated in Sub-Saharan Africa.
+doc39	5	METHODS
+doc39	6	Data were drawn from baseline surveys and study charts of 535 sexually active women aged 18-45 who used a copper IUD while participating in an HIV-prevention clinical trial conducted from August 2012 through June 2015 in Malawi, South Africa, Uganda and Zimbabwe.
+doc39	7	IUDs were inserted by study physicians, nurses and midwives trained as part of the trial, and by local nonstudy providers.
+doc39	8	Chi-square and Fisher's exact tests were used to compare women's experiences of adverse events-such as irregular bleeding, pelvic pain or device expulsion-by provider type.
+doc39	9	RESULTS
+doc39	10	Half (54%) of women reported experiencing an adverse event; the most common were irregular bleeding and pelvic pain (45% and 25%, respectively).
+doc39	11	Compared with women who had received an IUD from a study physician or study nurse, greater proportions of women who had received one from a nonstudy provider reported any adverse event (76% vs. 49% and 51%, respectively), irregular bleeding (57% vs. 41% and 45%) and pelvic pain (35% vs. 15% and 32%); the difference between study physicians and nurses was significant only for pelvic pain.
+doc39	12	Expulsion rates were comparable for study nurses and nonstudy providers (12.3 and 11.9 per 100 woman-years, respectively), but lower for study physicians (7.3 per 100 woman-years).
+doc39	13	CONCLUSIONS
+doc39	14	The findings support task shifting of IUD insertion to mid-level providers to improve IUD access in Sub-Saharan Africa.
+doc4	1	[Biosimilars antibodies: positioning compared to originators - the experience in rheumatology and the biosimilars of trastuzumab in oncology].
+doc4	2	Biosimilars have demonstrated their equivalence with biologic originators, according to rigorous specifications imposed by the regulatory agencies, the FDA and the EMA.
+doc4	3	Their development is justified by the very high cost of biopharmaceuticals, and strong incentives for their prescription lead us to hope substantial savings, allowing to finance other innovative molecules.
+doc4	4	Trastuzumab marked history of the treatment of breast cancer.
+doc4	5	Four biosimilars of trastuzumab are available for routine use and we will detail the key points of their development.
+doc40	1	The My Emotions Questionnaire: A self-report of mothers' emotional responses to infant crying.
+doc40	2	The purpose of this article was to examine the psychometrics of the My Emotions Questionnaire, a self-report designed to assess mothers' emotional reactions when their infants cry.
+doc40	3	Participants were 240 first-time mothers.
+doc40	4	When infants were 6 months and 1 year old, mothers completed the new questionnaire and measures assessing beliefs and behavioral responses to infant crying, and interview-based measures of mothers' emotional reactions and causal attributions about crying were administered.
+doc40	5	Maternal sensitivity and negative behaviors were observed when infants were 6 months and 1 and 2 years old.
+doc40	6	Mothers reported on their discipline practices when children were 2 years old.
+doc40	7	Five emotion factors emerged based on exploratory factor analysis (EFA) of the 6-month data: Amusement, Anxiety, Frustration, Sympathy, and Protective.
+doc40	8	The five-factor structure was supported via a confirmatory factor analysis (CFA) of the 1-year data.
+doc40	9	All scales demonstrated adequate internal consistency reliability and significant stability from 6 months to 1 year.
+doc40	10	Amusement, Frustration, and Protectiveness demonstrated the best convergent validity with cry cognitions and predictive validity to parenting measures, followed by Anxiety, although effects tended to be small to moderate.
+doc40	11	Evidence for the validity of Sympathy was less compelling.
+doc40	12	The potential utility of the questionnaire for basic and applied research is discussed.
+doc41	1	The changing face of academic general surgery in Canada: a cross-sectional cohort study
+doc41	2	Background
+doc41	3	Little is known regarding the research and training expectations faced by modern general surgery graduates interested in pursuing academic surgical careers.
+doc41	4	In this study, we describe the changing face of the Canadian academic general surgeon by outlining the in-residency research productivity and postresidency clinical and academic training trends over time.
+doc41	5	Methods
+doc41	6	Our cross-sectional cohort included Canadian academic general surgeons, defined as those with a university-affiliated appointment as assistant, associate or full professor.
+doc41	7	Academic surgeons were identified by the Royal College of Physicians and Surgeons of Canada online directory as well as directories of university and hospital websites.
+doc41	8	Data points included institution, faculty appointment and rank, graduation year, graduate education, fellowship training and research productivity.
+doc41	9	Results
+doc41	10	Our cohort included 417 surgeons from 17 Canadian academic institutions.
+doc41	11	The majority of surgeons were male (72.9%), had completed at least 1 fellowship (72.9%) and had had some form of supplementary research training (51.8%).
+doc41	12	Surgeons in the cohort had practised a median of 17 (10–27) years.
+doc41	13	The mean number of total and first-author publications for the participants in this study has increased consistently each decade before the 1980s (p < 0.001).
+doc41	14	The proportion of academic surgeons completing graduate degrees has increased steadily every decade, reaching a peak of 61.5% for surgeons graduating in the 2010s.
+doc41	15	Conclusion
+doc41	16	The Canadian academic surgeon is becoming increasingly productive in research during residency and is pursuing higher levels of graduate education and more fellowships than ever before.
+doc41	17	These changes probably correspond to an evolving employment and research funding landscape that places tremendous academic pressure on surgical trainees.
+doc42	1	The Burden of Atherosclerotic Cardiovascular Disease in South Asians Residing in Canada: A Reflection From the South Asian Heart Alliance.
+doc42	2	South Asians (SAs), originating from the Indian subcontinent (India, Pakistan, Sri Lanka, Bangladesh, Nepal, and Bhutan), represent one quarter of the global population and are the largest visible minority in Canada.
+doc42	3	SAs experience the highest rates of coronary artery disease in Canada.
+doc42	4	Although conventional cardiovascular risk factors remain predictive in SA, the excess risk is not fully explained by these risk factors alone.
+doc42	5	Abdominal obesity, metabolic syndrome, and insulin resistance likely contribute a greater risk in SAs than in other populations.
+doc42	6	The South Asian Heart Alliance has been recently formed to investigate and recommend the best strategies for the prevention of cardiometabolic disease in SAs in Canada.
+doc42	7	This topic review represents a comprehensive overview of the magnitude of cardiovascular disease in SAs in Canada, with a review of conventional and novel risk markers in the SA population.
+doc42	8	Both primary and secondary prevention strategies are suggested and when possible, adapted specifically for the SA population.
+doc42	9	The need for SAs and their healthcare professionals to be more aware of the problem and potential solutions, along with the need for population-specific research, is highlighted.
+doc43	1	Health-care investments for the urban populations, Bangladesh and India.
+doc43	2	Objective
+doc43	3	To estimate the costs and mortality reductions of a package of essential health interventions for urban populations in Bangladesh and India.
+doc43	4	Methods
+doc43	5	We used population data from the countries' censuses and United Nations Population Division.
+doc43	6	For causes of mortality in India, we used the Indian Million Death Study.
+doc43	7	We obtained cost estimates of each intervention from the third edition of Disease control priorities.
+doc43	8	For estimating the mortality reductions expected with the package, we used the Disease control priorities model.
+doc43	9	We calculated the benefit-cost ratio for investing in the package, using an analysis based on the Copenhagen Consensus method.
+doc43	10	Findings
+doc43	11	Per urban inhabitant, total costs for the package would be 75.1 United States dollars (US$) in Bangladesh and US$ 105.0 in India.
+doc43	12	Of this, prevention and treatment of noncommunicable diseases account for US$ 36.5 in Bangladesh and U$ 51.7 in India.
+doc43	13	The incremental cost per urban inhabitant for all interventions would be US$ 50 in Bangladesh and US$ 75 in India.
+doc43	14	In 2030, the averted deaths among people younger than 70 years would constitute 30.5% (1027/3362) and 21.2% (828/3913) of the estimated baseline deaths in Bangladesh and India, respectively.
+doc43	15	The health benefits of investing in the package would return US$ 1.2 per dollar spent in Bangladesh and US$ 1.8 per dollar spent in India.
+doc43	16	Conclusion
+doc43	17	Investing in the package of essential health interventions, which address health-care needs of the growing urban population in Bangladesh and India, seems beneficial and could help the countries to achieve their 2030 sustainable development goals.
+doc44	1	Validation of a Weight Threshold-Based Vancomycin Dosing Protocol for Patients Undergoing Intermittent Hemodialysis.
+doc44	2	Background
+doc44	3	Patients receiving intermittent hemodialysis (IHD) are at high risk of acquiring gram-positive infections, which are often treated with IV vancomycin.
+doc44	4	Despite frequent use of vancomycin in the IHD setting, there is variability in dosing and monitoring practices among clinicians at the study institution.
+doc44	5	There is also a paucity of evidence regarding optimal vancomycin dosing to achieve target pre-IHD serum concentration.
+doc44	6	Objectives
+doc44	7	The primary objective was to compare the percentage of treatment courses with a serum vancomycin concentration between 15 and 20 mg/L, measured before the third IHD session, before and after implementation of a weight threshold-based dosing protocol.
+doc44	8	The secondary objectives were to compare the percentage of treatment courses with a pre-third IHD vancomycin concentration between 10 and 22 mg/L and the number of vancomycin measurements per treatment day, before and after protocol implementation.
+doc44	9	Methods
+doc44	10	This quasi-experimental, single-centre study included inpatients and outpatients who underwent IHD and received at least 2 IV doses of vancomycin, with vancomycin being measured in an appropriately drawn sample before the third IHD session.
+doc44	11	Before protocol implementation, vancomycin dosing was at the clinician's discretion (usual care).
+doc44	12	After protocol implementation, each patient received a loading dose of 1000, 1500, or 2000 mg and a maintenance dose of 500, 750, or 1000 mg, depending on body weight.
+doc44	13	Results
+doc44	14	The percentage of treatment courses with a pre-third IHD vancomycin concentration between 15 and 20 mg/L was greater after implementation of the protocol than with usual care, but the difference was nonsignificant (44% [8/18] versus 20% [3/15], p = 0.27).
+doc44	15	However, the percentage of treatment courses with a pre-third IHD vancomycin concentration between 10 and 22 mg/L was significantly higher after protocol implementation (94% [17/18] versus 53% [8/15], p = 0.012).
+doc44	16	There was no difference in the median number of vancomycin measurements per treatment day before and after protocol implementation (0.133 versus 0.125, p = 0.99).
+doc44	17	Conclusions
+doc44	18	At the study institution, the likelihood of achieving recommended vancomycin concentration increased (relative to previous practice) after implementation of a simplified vancomycin dosing protocol for patients undergoing IHD.
+doc45	1	Estimating completeness of birth registration in South Africa, 1996 - 2011.
+doc45	2	Objective
+doc45	3	To estimate the completeness of live birth registration through South Africa's civil registration and vital statistics system between 1996 and 2011.
+doc45	4	Methods
+doc45	5	The number of births registered by the civil registration and vital statistics system was compared with independent estimates of the true number of births derived using: (i) the reverse survival method applied to 2011 census data; (ii) the application of estimated age-specific fertility rates to population estimates from censuses and surveys; and (iii) data from the public-sector district health information system.
+doc45	6	Findings
+doc45	7	In 1996, an estimated 25% of births were registered within the calendar year of birth and 33% were registered before the end of the subsequent calendar year.
+doc45	8	By 2008, 76% of registrations occurred within the calendar year of birth, 84% occurred by the end of the following year and 90% occurred before the child's fifth birthday.
+doc45	9	These improvements were seen in all provinces and differences in completeness between provinces narrowed markedly.
+doc45	10	Improvements in the completeness of registration coincided with government efforts to strengthen the system, new legislation on vital registration and the introduction of child support grants, which required birth certificates.
+doc45	11	Interprovincial migration of children influenced the completeness of registration in affected provinces.
+doc45	12	There was some terminological confusion among government agencies on defining the timeliness of registration and the year of birth.
+doc45	13	Conclusion
+doc45	14	The completeness of birth registration in South Africa increased rapidly between 1996 and 2004.
+doc45	15	To allow international comparison, the method for measuring the completeness of birth registration needs to be standardized.
+doc46	1	Purchasing reforms and tracking health resources, Kenya.
+doc46	2	As low- and middle-income countries undertake health financing reforms to achieve universal health coverage, there is renewed interest in making allocation of pooled funds to health-care providers more strategic.
+doc46	3	To make purchasing more strategic, countries are testing different provider payment methods.
+doc46	4	They therefore need comprehensive data on funding flows to health-care providers from different purchasers to inform decision on payment methods.
+doc46	5	Tracking funding flow is the focus of several health resource tracking tools including the System of Health Accounts and public expenditure tracking surveys.
+doc46	6	This study explores whether these health resource tracking tools generate the type of information needed to inform strategic purchasing reforms, using Kenya as an example.
+doc46	7	Our qualitative assessment of three counties in Kenya shows that different public purchasers, that is, county health departments and the national health insurance agency, pay public facilities through a variety of payment methods.
+doc46	8	Some of these flows are in-kind while others are financial transfers.
+doc46	9	The nature of flows and financial autonomy of facilities to retain and spend funds varies considerably across counties and levels of care.
+doc46	10	The government routinely undertakes different health resource tracking activities to inform health policy and planning.
+doc46	11	However, a good source for comprehensive data on the flow of funds to public facilities is still lacking, because these activities were not originally designed to offer such insights.
+doc46	12	We therefore argue that the methods could be enhanced to track such information and hence improve strategic purchasing.
+doc46	13	We also offer suggestions how this enhancement can be achieved.
+doc47	1	Toward Fortress Capitalism: The Restrictive Transformation of Migration and Border Regimes as a Reaction to the Capitalist Multicrisis.
+doc47	2	"The article develops the concept of ""fortress capitalism."""
+doc47	3	The concept has two dimensions.
+doc47	4	First, it describes those elements within today's migration and border regimes that aim to control the mobility of the global working class in repressive ways.
+doc47	5	Second, it designates a dystopian future scenario, in which these repressive elements have massively expanded.
+doc47	6	Such a formation might develop as part of a twenty-first-century fascism.
+doc47	7	Based on historical materialism and critical theory, the article makes four points.
+doc47	8	First, it asserts that migration regimes are being transformed toward a new level of restrictiveness.
+doc47	9	Second, it argues that fortress capitalism complements theoretical motives that emphasize the uncontrollability of migration.
+doc47	10	Third, it contends that migration and border regimes in their emergence, dynamics, forms, and effects are closely linked to the intersectional dynamics of global capitalism as a whole.
+doc47	11	Fourth, it points out that global capitalism fundamentally depends on border regimes to regulate its contradictions.
+doc48	1	Mass spectrometry-based proteomics reveals the distinct nature of the skin proteomes of photoaged compared to intrinsically aged skin.
+doc48	2	OBJECTIVE
+doc48	3	With increasing age, skin is subject to alterations in its organization, which impact on its function as well as having clinical consequences.
+doc48	4	Proteomics is a useful tool for non-targeted, semi-quantitative simultaneous investigation of high numbers of proteins.
+doc48	5	In the current study, we utilize proteomics to characterize and contrast age-associated differences in photoexposed and photoprotected skin, with a focus on the epidermis, dermal-epidermal junction and papillary dermis.
+doc48	6	METHODS
+doc48	7	Skin biopsies from buttock (photoprotected) and forearm (photoexposed) of healthy volunteers (aged 18-30 or ≥65 years) were transversely sectioned from the stratum corneum to a depth of 250 μm.
+doc48	8	Following SDS-PAGE, each sample lane was segmented prior to analysis by liquid chromatography-mass spectrometry/mass spectrometry.
+doc48	9	Pathway analysis was carried out using Ingenuity IPA.
+doc48	10	RESULTS
+doc48	11	Comparison of skin proteomes at buttock and forearm sites revealed differences in relative protein abundance.
+doc48	12	Ageing in skin on the photoexposed forearm resulted in 80% of the altered proteins being increased with age, in contrast to the photoprotected buttock where 74% of altered proteins with age were reduced.
+doc48	13	Functionally, age-altered proteins in the photoexposed forearm were associated with conferring structure, energy and metabolism.
+doc48	14	In the photoprotected buttock, proteins associated with gene expression, free-radical scavenging, protein synthesis and protein degradation were most frequently altered.
+doc48	15	CONCLUSION
+doc48	16	This study highlights the necessity of not considering photoageing as an accelerated intrinsic ageing, but as a distinct physiological process.
+doc49	1	The rural-urban gap: differences in injury characteristics.
+doc49	2	BACKGROUND
+doc49	3	Injuries are among the top 10 leading causes of death in Canada.
+doc49	4	However, the types and rates of injuries vary between rural versus urban settings.
+doc49	5	Injury rates increase with rurality, particularly those related to motor vehicle collisions.
+doc49	6	Factors such as type of work, hazardous environments and longer driving distances contribute to the difference in rural and urban injury rates.
+doc49	7	Further examination of injuries comparing rural and urban settings with increased granularity in the nature of injuries and severity is needed.
+doc49	8	METHODS
+doc49	9	The study population consisted of records from the electronic Canadian Hospitals Injury Reporting and Prevention Program (eCHIRPP) from between 2011 and July 2017.
+doc49	10	Rural and urban status was determined based on postal codes as defined by Canada Post.
+doc49	11	Proportionate injury ratios (PIRs) were calculated to compare rural and urban injury rates by nature and severity of injury and sex, among other factors.
+doc49	12	RESULTS
+doc49	13	Rural injuries were more likely to involve multiple injuries (PIR = 1.66 for 3 injuries) and crush injuries (PIR = 1.72).
+doc49	14	More modestly elevated PIRs for rural settings were found for animal bites (1.14), burns (1.22), eye injuries (1.32), fractures (1.20) and muscle or soft tissue injuries (1.11).
+doc49	15	Injuries in rural areas were more severe, with a higher likelihood of cases being admitted to hospital (1.97), and they were more likely to be due to a motor vehicle collision (2.12).
+doc49	16	CONCLUSION
+doc49	17	The nature of injuries in rural settings differ from those in urban settings.
+doc49	18	This suggests a need to evaluate current injury prevention efforts in rural settings with the aim to close the gap between rural and urban injury rates.
+doc5	1	[Biosimilar monoclonal antibodies: comparative study of analytical and functional quality].
+doc5	2	Biosimilars marketing authorization requires a strict demonstration of similarity with the reference antibody, through preclinical and clinical studies.
+doc5	3	This article reviews the panel of in vitro physicochemical and functional analyses, which are performed prior to clinical studies.
+doc5	4	For each critical attribute of the antibody, we detail the commonly used analytical techniques, their working principle and the type of information they may give.
+doc50	1	Canadian Chronic Disease Indicators, 2019 - Updating the data and taking into account mental health.
+doc50	2	The 2019 edition of the Canadian Chronic Disease Indicators (CCDI) provides recent estimates of the burden of chronic conditions and measures of general health and associated determinants in Canada.
+doc50	3	Using data from the CCDI and 2017 Canadian Community Health Survey, we explored the relationship between sociodemographic factors and selfreported mental health.
+doc50	4	Our findings suggest that sex (males vs females: adjusted odds ratio [aOR] = 1.22); age (65-79 vs 35-49 year age group: aOR = 1.48); education (postsecondary graduate vs less than high school: aOR = 1.68); household income adequacy (highest quintile [Q5] vs lowest [Q1]: aOR = 2.25); and immigrant status (recent immigrants vs nonimmigrants: aOR= 2.29) were significantly associated with higher self-reported mental health.
+doc6	1	[Uterine transplant: Clinical and ethical challenges in Switzerland].
+doc6	2	Uterine transplant is a novel treatment option for women with absolute uterine infertility.
+doc6	3	Sixty uterine transplants have been performed worldwide to date.
+doc6	4	The first live birth happened in 2014 and since then 20 children have been born after this procedure.
+doc6	5	The procedure has several challenges: The donor is usually a woman alive.
+doc6	6	Surgery is long and complex for both the donor and the recipient, with a high risk of complications.
+doc6	7	Embryos have to be obtained through IVF.
+doc6	8	Pregnancies are at high risk for complications and require cesarean delivery, and transplant is temporary (the transplanted uterus is removed after pregnancy in order to allow discontinuation of immunosuppressive therapy).
+doc6	9	Uterine transplant is a new hope for women with absolute uterine infertility but a high-risk experimental procedure for the donor, the recipient and the newborns and raises major ethical questions.
+doc7	1	[Advances in Oncology 2019].
+doc7	2	Driven by highly specialized medicine, research and the quest for personalization of treatments, oncology witnessed substantial advances in 2019.
+doc7	3	This year numerous treatments have consolidated their importance and broadened their indications.
+doc7	4	Multiple innovative treatments, currently under study, brought hope for future advances, while biomarkers, such as PD-L1, microsatellite instability (MSI), tumor mutational burden (TMB), BRCA1/2 gene mutations, and homologous recombination deficiency (HRD) allowed better selection and customization of available treatments.
+doc7	5	This article provides an overview of this year's advances in oncology.
+doc8	1	[PROFILES: typical portrait of the future Swiss doctors].
+doc8	2	In each professional practice, a greater or lesser part of the activity is devoted to teaching.
+doc8	3	Indeed, the transmission of the medical knowledge is an essential objective for the training of students and residents, but also an opportunity to adapt one's own practices to the current context, since fast changes are not necessarily easy to follow and assimilate.
+doc8	4	If the relationship with Medical school is rather straightforward in the university hospitals, it is not always the same for those who are more distant, but whose participation in teaching is desired, and clearly growing.
+doc8	5	In this way, it is therefore crucial that everyone is informed about recent changes to the undergraduated learning objectives (PROFILES) and the resulting needs for educational reforms for all Medical schools in Switzerland.
+doc9	1	[A first-line guide to the evaluation of « Penicillin Allergy » in general medical practice].
+doc9	2	« Penicillin allergy » is a common finding in patient's medical files (up to 10 %).
+doc9	3	Although it is important not to neglect such records (due to the serious and life-threatening reactions an allergic patient may suffer from), most of the time these reported notions of allergy are wrong and lead to the unfortunate avoidance of all betalactamins.
+doc9	4	This in turn leads to increased risks of antibiotic resistance and increased health costs.
+doc9	5	This review aims to summarize the current knowledge on penicillin allergy epidemiologic data and proposes a first-line guide for general practitioners to the evaluation of the patient with a history of « penicillin allergy ».

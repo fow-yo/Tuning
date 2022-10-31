@@ -1,0 +1,3080 @@
+[
+    {
+        "translation": {
+            "fr": "Comme les pays à faible et moyen revenu se lancent dans des réformes de financement des soins de santé afin doffrir une couverture maladie universelle, on constate un regain dintérêt pour une répartition plus stratégique des fonds communs aux prestataires de soins de santé.",
+            "en": "As low- and middle-income countries undertake health financing reforms to achieve universal health coverage, there is renewed interest in making allocation of pooled funds to health-care providers more strategic."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces pays testent différentes méthodes de paiement des prestataires dans le but daméliorer la stratégie dachat.",
+            "en": "To make purchasing more strategic, countries are testing different provider payment methods."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ils ont donc besoin de données exhaustives sur les flux de financement entre ces prestataires de soins de santé et divers acquéreurs sils souhaitent prendre des décisions avisées dans ce domaine.",
+            "en": "They therefore need comprehensive data on funding flows to health-care providers from different purchasers to inform decision on payment methods."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le suivi des flux de financement fait lobjet de plusieurs outils de suivi des ressources de santé, dont le Système des comptes de la santé et les enquêtes de suivi des dépenses publiques.",
+            "en": "Tracking funding flow is the focus of several health resource tracking tools including the System of Health Accounts and public expenditure tracking surveys."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cette étude vise à déterminer si ces outils de suivi des ressources de santé génèrent le type dinformation requis pour élaborer des stratégies dachat adéquates, avec le Kenya en guise dexemple.",
+            "en": "This study explores whether these health resource tracking tools generate the type of information needed to inform strategic purchasing reforms, using Kenya as an example."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Notre analyse qualitative de trois comtés kényans montre que différents acquéreurs publics, à savoir les autorités sanitaires des comtés et lAgence nationale de lassurance maladie, rémunèrent les établissements publics par le biais dune série de méthodes de paiement.",
+            "en": "Our qualitative assessment of three counties in Kenya shows that different public purchasers, that is, county health departments and the national health insurance agency, pay public facilities through a variety of payment methods."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Certaines de ces flux sont en nature tandis que d'autres sont des transferts financiers.",
+            "en": "Some of these flows are in-kind while others are financial transfers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La nature des flux ainsi que lautonomie financière des établissements en termes de conservation et de dépense des fonds varient considérablement selon les comtés et les niveaux de soins.",
+            "en": "The nature of flows and financial autonomy of facilities to retain and spend funds varies considerably across counties and levels of care."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le gouvernement entreprend systématiquement différentes activités de suivi des ressources de santé afin déclairer les politiques et la planification de la santé.",
+            "en": "The government routinely undertakes different health resource tracking activities to inform health policy and planning."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cependant, il manque encore une bonne source de données exhaustives sur les flux de fonds vers les établissements publics, car ces activités nont pas été initialement conçues pour fournir de tels éclaircissements.",
+            "en": "However, a good source for comprehensive data on the flow of funds to public facilities is still lacking, because these activities were not originally designed to offer such insights."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous affirmons dès lors que ces méthodes pourraient être optimisées pour récupérer ces informations et améliorer ainsi la stratégie dachat.",
+            "en": "We therefore argue that the methods could be enhanced to track such information and hence improve strategic purchasing."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous formulons également des suggestions permettant de procéder à cette optimisation.",
+            "en": "We also offer suggestions how this enhancement can be achieved."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Problème",
+            "en": "Problem"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le Bangladesh n'est doté d'aucun système national pour enregistrer les décès et déterminer leurs causes.",
+            "en": "Bangladesh has no national system for registering deaths and determining their causes."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En conséquence, les responsables des politiques ne disposent pas de données fiables et exhaustives pour prendre des décisions avisées en matière de santé publique.",
+            "en": "As a result, policy-makers lack reliable and complete data to inform public health decisions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Approche",
+            "en": "Approach"
+        }
+    },
+    {
+        "translation": {
+            "fr": "En 2016, le gouvernement du Bangladesh a mis en place un projet pilote destiné à renforcer le système des registres et des statistiques de l'état civil et à obtenir des données sur les causes de décès dans l'upazila de Kaliganj.",
+            "en": "In 2016, the government of Bangladesh introduced a pilot project to strengthen the civil registration and vital statistics system and generate cause of death data in Kaliganj Upazila."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des agents sanitaires de proximité ont appris à notifier les naissances et les décès à l'officier de l'état civil, et à réaliser des autopsies verbales auprès des membres de la famille d'une personne décédée.",
+            "en": "Community-based health workers were trained to notify births and deaths to the civil registrar, and to conduct verbal autopsy interviews with family members of a deceased person."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des experts internationaux de la certification des causes de décès et du codage ont appris à des formateurs principaux à remplir le certificat médical international indiquant la cause du décès.",
+            "en": "International experts in cause-of-death certification and coding trained master trainers on how to complete the international medical certificate of cause of death."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces formateurs ont ensuite appris à des médecins et à des codeurs.",
+            "en": "These trainers then trained physicians and coders."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Environnement local",
+            "en": "Local setting"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lupazila de Kaliganj compte quelque 304 600 habitants et enregistre environ 5600 naissances et 1550 décès par an.",
+            "en": "Kaliganj Upazila has an estimated population of 304 600, and 5600 births and 1550 deaths annually."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les aides-soignants et les aides-soignants font des visites régulières aux ménages pour déterminer certains résultats en matière de santé.",
+            "en": "Health assistants and family welfare assistants make regular visits to households to track certain health outcomes."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Changements significatifs",
+            "en": "Relevant changes"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Suite à lentrée en fonction du projet en 2016, le nombre de naissances enregistrées dans un délai de 45 jours a augmenté, passant de 873 à 4630 en 2018.",
+            "en": "Following the start of the project in 2016, the number of births registered within 45 days rose from 873 to 4630 in 2018."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le nombre de décès enregistrés dans un délai de 45 jours a augmenté, passant de 458 à 1404.",
+            "en": "The number of deaths registered within 45 days increased from 458 to 1404."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au cours de cette période, les aides-soignants ont réalisé 7837 autopsies verbales.",
+            "en": "During this period, health assistants conducted 7837 verbal autopsy interviews."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Entre janvier 2017 et décembre 2018, 105 formateurs principaux et plus de 7000 médecins ont appris à remplir le certificat médical international indiquant la cause du décès, et ils ont rempli plus de 12 000 certificats.",
+            "en": "Between January 2017 and December 2018, 105 master trainers and more than 7000 physicians were trained to complete the international medical certificate of cause of death and they completed more than 12 000 certificates."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Leçons tirées",
+            "en": "Lessons learnt"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La formation d'agents sanitaires de proximité, de médecins et de codeurs s'est révélée efficace pour améliorer l'enregistrement des décès et accroître la disponibilité de données sur les causes de décès.",
+            "en": "Training community-based health workers, physicians and coders were successful approaches to improve death registration completeness and availability of cause-of-death data."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectif",
+            "en": "Objective"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Évaluer la composition hommes-femmes des contributeurs aux directives de l'Organisation mondiale de la Santé (OMS) publiées de 2008 à 2018.",
+            "en": "To assess the gender composition of guideline contributors for all World Health Organization (WHO) guidelines published from 2008 to 2018."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons recherché des directives dans la base de données du Comité d'évaluation des directives de l'OMS.",
+            "en": "We searched for guidelines in the WHO Guideline Review Committee database."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous en avons extrait des données concernant les directives (titre, année de parution) et les personnes qui y ont participé (nom, rôle, sexe).",
+            "en": "We extracted data about the guidelines (title, publication year) and individuals participating (name, role, gender)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les rôles liés aux directives étaient les suivants : membre ou président du groupe d'élaboration des directives, groupe directeur de l'OMS, évaluateur externe ou méthodologue.",
+            "en": "Guideline roles included: member or chair of guideline development group, WHO steering group, external reviewer or methodologist."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons utilisé des statistiques descriptives pour analyser la composition hommes-femmes de chaque rôle et la part de femmes membres ou présidentes de groupes d'élaboration de directives.",
+            "en": "We used descriptive statistics to analyse gender composition for each role and the proportion of guideline development group members and chairs who were female."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Findings"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons étudié 230 directives sur lesquelles étaient intervenues 13 329 personnes: 219 directives (95,2%) mentionnaient un groupe d'élaboration de directives (4912 personnes).",
+            "en": "We included 230 guidelines involving 13 329 individuals: 219 guidelines (95.2%) reported a guideline development group (4912 individuals)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces groupes comptaient plus d'hommes (2606; 53,1%) que de femmes (2241; 45,5%) parmi leurs membres.",
+            "en": "More group members were male (2606; 53.1%) than female (2241; 45.5%)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La proportion médiane de femmes membres par directive était de 47,1% (intervalle interquartile: 35,7–56,3).",
+            "en": "The median proportion of female members per guideline was 47.1% (interquartile range: 35.7-56.3)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La moitié des directives (110; 50,2%) avaient été élaborées par un groupe composé de 40,1% à 60% de femmes et 75 directives (34,2%) comptaient ≤ 40% de femmes dans le groupe.",
+            "en": "Half of the guidelines (110; 50.2%) had a development group composed of 40.1-60% females and 75 guidelines (34.2%) had ≤ 40% females in the group."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Certaines améliorations ont été observées entre 2016 et 2018: un quart des groupes était composé de ≤ 40,0% de femmes en 2016 et 2017, proportion qui était passée à 9,1% en 2018.",
+            "en": "From 2016 to 2018, there were some improvements: one quarter of groups were composed of ≤ 40.0% females in 2016 and 2017, and this reduced to 9.1% in 2018."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Sur 243 présidents de groupes, 145 (59,7%) étaient des hommes et 96 (39,5%) des femmes.",
+            "en": "Among 243 group chairs, 145 (59.7%) were male and 96 (39.5%) were female."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La participation à un panel de directives représente un rôle de premier plan dans le domaine de la santé mondiale.",
+            "en": "Participation on a guideline panel is a prestigious leadership role in global health."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La sous-représentation des femmes dans la plupart des rôles liés aux directives de l'OMS montre que des inégalités persistent, alors même que des normes et des politiques appellent à un équilibre hommes-femmes.",
+            "en": "The under-representation of women across most WHO guideline roles shows that inequalities persist even where standards and policies call for gender balance."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lattention peut être portée plus particulièrement sur le renforcement des mécanismes de responsabilisation et la compréhension des causes profondes de ce déséquilibre.",
+            "en": "Attention can be shifted to strengthening accountability mechanisms and understanding the root causes of this imbalance."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article visait à étudier la psychométrie du questionnaire Mes émotions, autodéclaration visant à évaluer les réactions émotionnelles des mères lorsque leurs nourrissons pleurent.",
+            "en": "The purpose of this article was to examine the psychometrics of the My Emotions Questionnaire, a self-report designed to assess mothers' emotional reactions when their infants cry."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les participantes étaient 240 mères pour la première fois.",
+            "en": "Participants were 240 first-time mothers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lorsque les enfants avaient 6 mois et 1 an, les mères ont rempli le nouveau questionnaire et des mesures permettant dévaluer les croyances et les réponses comportementales aux pleurs chez les nourrissons, ainsi que des mesures axées sur les interviews des réactions émotionnelles des mères et des attributions causales à légard des pleurs ont été administrées.",
+            "en": "When infants were 6 months and 1 year old, mothers completed the new questionnaire and measures assessing beliefs and behavioral responses to infant crying, and interview-based measures of mothers' emotional reactions and causal attributions about crying were administered."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La sensibilité maternelle et les comportements négatifs ont été observés lorsque les enfants avaient 6 mois, 1 an, 2 ans.",
+            "en": "Maternal sensitivity and negative behaviors were observed when infants were 6 months and 1 and 2 years old."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les mères ont fait état de leurs disciplinaires quand les enfants avaient 2 ans.",
+            "en": "Mothers reported on their discipline practices when children were 2 years old."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cinq facteurs démotion ont émergé, basé sur l'analyse des facteurs exploratoires des données de 6 mois : amusement, anxiété, frustration, sympathie et protectrice.",
+            "en": "Five emotion factors emerged based on exploratory factor analysis (EFA) of the 6-month data: Amusement, Anxiety, Frustration, Sympathy, and Protective."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La structure de 5 facteurs a été soutenue au travers dune analyse des facteurs de confirmation des données dune année.",
+            "en": "The five-factor structure was supported via a confirmatory factor analysis (CFA) of the 1-year data."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Toutes les échelles ont démontré une fiabilité adéquate de la cohérence interne et une stabilité importante de 6 mois à 1 an.",
+            "en": "All scales demonstrated adequate internal consistency reliability and significant stability from 6 months to 1 year."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lamusement, la frustration et la protectrice ont démontré la meilleure validité convergente avec des connaissances des cris et une validité prédictive pour les mesures parentales, suivies danxiété, bien que les effets aient tendance à être faibles à modérés.",
+            "en": "Amusement, Frustration, and Protectiveness demonstrated the best convergent validity with cry cognitions and predictive validity to parenting measures, followed by Anxiety, although effects tended to be small to moderate."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les preuves de la validité de la sympathie étaient moins convaincantes.",
+            "en": "Evidence for the validity of Sympathy was less compelling."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lutilité potentielle du questionnaire pour la recherche fondamentale et appliquée est discutée.",
+            "en": "The potential utility of the questionnaire for basic and applied research is discussed."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectif",
+            "en": "Purpose"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La compréhension des attentes des patientes est prédictive de meilleurs résultats cliniques après une reconstruction mammaire.",
+            "en": "An understanding of patient expectations predicts better health outcomes following breast reconstruction."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Aucune étude na jusquà présent examiné comment les attentes des patientes à légard de la reconstruction mammaire et de la qualité de vie liée à la santé préopératoire varient avec le temps depuis le diagnostic de cancer du sein.",
+            "en": "No study to date has examined how patient expectations for breast reconstruction and preoperative health-related quality of life vary with time since breast cancer diagnosis."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les femmes qui ont consulté le cabinet dun seul chirurgien en vue dune reconstruction mammaire sur une période de 13 mois ont participé à la présente étude transversale.",
+            "en": "Women consulting for breast reconstruction to a single surgeon's practice over a 13-month period were enrolled in this cross-sectional study."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les patientes ont été invitées à remplir de manière prospective les modules BREAST-Q sur les attentes préopératoires et la reconstruction.",
+            "en": "Patients were asked to prospectively complete the BREAST-Q expectations and preoperative reconstruction modules."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une analyse rétrospective des dossiers a ensuite été réalisée sur les patients éligibles, ainsi que sur les démographiques des patients, les facteurs liés au cancer et les complications observées.",
+            "en": "A retrospective chart review was then performed on eligible patients, and patient demographics, cancer-related factors, and comorbidities were collected."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ils ont transformé les scores BREAST-Q à laide du modèle de Rasch équivalent.",
+            "en": "BREAST-Q scores were transformed using the equivalent Rasch method."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des modèles de régression linéaire à plusieurs variables ont été construits pour évaluer le lien entre les scores BREAST-Q et le temps écoulé depuis le diagnostic de cancer.",
+            "en": "Multivariate linear regression models were constructed to assess the association between BREAST-Q scores and time since cancer diagnosis."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La plupart des patientes ont été traitées par mastectomie (58 %) ou lumpectomie (23 %).",
+            "en": "Most patients were treated by mastectomy (58%) or lumpectomy (23%)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au moment de lanalyse rétrospective des dossiers, 29 (43 %) avaient subi une reconstruction, dont la plupart avaient été retardées (59 %).",
+            "en": "At the time of retrospective chart review, 29 (43%) patients had undergone reconstruction, most of which were delayed (59%)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La latence moyenne entre le diagnostic de cancer et la reconstruction était de 685 ± 867 jours (intervalle : 28–3322 jours).",
+            "en": "The mean latency from cancer diagnosis to reconstruction was 685 ± 867 days (range: 28-3322 days)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La latence entre le diagnostic de cancer et la reconstruction était liée à une plus grande attente de douleur (β = 0,5; erreur type [ÉT] = 0,005;intervalle de confiance à 95 % [ÉT] de 0,003 à 0,027; P<0,05) et à une attente plus lente pour la convalescence (β = -0,5; ÉT = 0,004; IC à 95 % de -0,021 à -0,001; P<0,05) après une reconstruction mammaire.",
+            "en": "Latency from cancer diagnosis to reconstruction was associated with a greater expectation of pain (β = 0.5; standard error [SE] = 0.005; 95% confidence interval [CI]: 0.003-0.027; P < .05), and a slower expectation for recovery (β = -0.5; SE = 0.004; 95% CI: -0.021 to -0.001; P < .05) after breast reconstruction."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La latence entre le diagnostic de cancer et la reconstruction était liée à une augmentation du bien-être psychosocial préopératoire (β = 0,578; ÉT = 0,009; IC à 95 % de 0,002 à 0,046; P<0,05).",
+            "en": "Latency from cancer diagnosis to reconstruction was associated with an increase in preoperative psychosocial well-being (β = 0.578; SE 0.009; 95% CI: 0.002-0.046; P < .05)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le report de la reconstruction mammaire peut avoir un effet négatif sur lanticipation des patientes à légard de la douleur préopératoire et de la convalescence.",
+            "en": "Delaying breast reconstruction may negatively impact patient expectations of postoperative pain and recovery."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des interventions éducatives visant à comprendre et à gérer les attentes des patientes pendant la période préopératoire pourraient améliorer la qualité de vie liée à la santé et améliorer les résultats liés aux patientes après une chirurgie initiale du cancer du sein.",
+            "en": "Educational interventions aimed at understanding and managing patient expectations in the preoperative period may improve health-related quality of life and patient-related outcomes following initial breast cancer surgery."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Anticorps biosimilaires versus princeps - Lexpérience en rhumatologie et les biosimilaires du trastuzumab en oncologie.",
+            "en": "[Biosimilars antibodies: positioning compared to originators - the experience in rheumatology and the biosimilars of trastuzumab in oncology]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les biosimilaires ont démontré leur équivalence avec les princeps biologiques, selon des spécifications rigoureuses imposées par les agences de régulation, la FDA et lEMA.",
+            "en": "Biosimilars have demonstrated their equivalence with biologic originators, according to rigorous specifications imposed by the regulatory agencies, the FDA and the EMA."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Leur développement et leur utilisation sont justifiés par le coût très élevé des biomédicaments, et de fortes incitations à leur prescription font espérer des économies substantielles, permettant le financement dautres molécules innovantes.",
+            "en": "Their development is justified by the very high cost of biopharmaceuticals, and strong incentives for their prescription lead us to hope substantial savings, allowing to finance other innovative molecules."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectif",
+            "en": "Objective"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Quantifier en quoi les changements dans les rapports des causes spécifiques du décès et la sélection de la cause sous-jacente parmi de multiples causes de décès sont des facteurs qui contribuent aux tendances de la mortalité due à des blessures accidentels chez les Américains âgés de 65 ans ou plus.",
+            "en": "To quantify how changes in reporting of specific causes of death and of selecting underlying cause from among multiple causes of death contribute to trends in mortality from unintentional injury in Americans aged 65 years or older."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "En utilisant les bases de données en ligne des Centres pour le contrôle et la prévention des maladies aux États-Unis (Centers for Disease Control and Prevention), nous avons extrait les données de mortalité par traumatisme accidentel standardisées selon l'âge pour la période comprise entre 1999 et 2016.",
+            "en": "We extracted age-standardized unintentional injury mortality data in the United States Centers for Disease Control and Prevention online databases from 1999 to 2016."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons utilisé une méthode d'attribution pour calculer deux indicateurs: la proportion de la mortalité associée à des codes spécifiques par rapport à la mortalité totale et la proportion de la mortalité associée à une cause sous-jacente de décès choisie parmi de multiples causes de décès.",
+            "en": "We used an attribution method to calculate two indicators: the proportion of mortality with specific codes out of all mortality; and the proportion of mortality with underlying cause of death selected from multiple causes of death."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons effectué une régression linéaire afin dexaminer les changements dans le temps, dans ces proportions, dans les décès enregistrés et ajustés selon lâge.",
+            "en": "We conducted a linear regression to examine the changes over time in these proportions and in reported and age-adjusted mortality."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Findings"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Entre 1999 et 2016, la proportion de la mortalité par traumatisme accidentel associée à une cause spécifique a augmenté dans cette tranche d'âges, en passant de 74% en 1999 (136,9 cas sur 185,0 pour 100 000 habitants) à 85% en 2016 (143,0 cas sur 169,1 pour 100 000 habitants) sur la base des codes de causes multiples de décès.",
+            "en": "From 1999 through 2016, the proportion of cause-specific unintentional injury mortality in this age group increased from 74% in 1999 (136.9 out of 185.0 per 100 000 population) to 85% in 2016 (143.0 out of 169.1 per 100 000 population) based on multiple causes of death codes."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les proportions de la mortalité associée à une cause sous-jacente de décès choisie parmi des causes multiples de décès a augmenté pour toutes les causes spécifiques de traumatismes accidentels, à l'exception des accidents impliquant des véhicules motorisés.",
+            "en": "The proportions of mortality with underlying cause of death selected out of multiple causes of death rose in all specific causes of unintentional injury except motor vehicle crash."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La mortalité standardisée selon l'âge attribuée aux changements dans l'enregistrement des décès a augmenté de façon continue entre 1999 et 2016.",
+            "en": "Age-standardized mortality attributed to reporting changes increased steadily between 1999 and 2016."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les augmentations pour: tous les types de traumatismes accidentels; les chutes; les accidents impliquant un véhicule à moteur; les étouffements; les intoxications et les expositions à des incendies ou à des substances brulantes ont été respectivement de 24,2; 13,5; 2,1; 2,3; 1,6 et 0,4 décès pour 100 000 habitants.",
+            "en": "The increases for overall unintentional injury, fall, motor vehicle crash, suffocation, poisoning and fire or hot object were 24.2, 13.5, 2.1, 2.3, 1.6 and 0.4 deaths per 100 000 persons, respectively."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les changements dans les rapports des données affectent les tendances de la mortalité par traumatisme accidentel globale et spécifique dans le temps pour les Américains âgés.",
+            "en": "Changes in data reporting affect trends in overall and specific unintentional injury mortality over time for older Americans."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectif",
+            "en": "Objective"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Estimer les coûts et les réductions de la mortalité dun ensemble dinterventions essentielles en santé pour les populations urbaines au Bangladesh et en Inde.",
+            "en": "To estimate the costs and mortality reductions of a package of essential health interventions for urban populations in Bangladesh and India."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons utilisé les données démographiques des recensements de pays et de la Division de la population de l'Organisation des Nations Unies.",
+            "en": "We used population data from the countries' censuses and United Nations Population Division."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons calculé le rapport avantages-coûts de l'investissement dans cet ensemble d'interventions à l'aide d'une analyse fondée sur la méthode du Consensus de Copenhague.",
+            "en": "We calculated the benefit-cost ratio for investing in the package, using an analysis based on the Copenhagen Consensus method."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Findings"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les coûts totaux par habitant en milieu urbain pour l'ensemble des interventions seraient de 75,1 dollars des États-Unis (US$) au Bangladesh et 105,0 US$ en Inde.",
+            "en": "Per urban inhabitant, total costs for the package would be 75.1 United States dollars (US$) in Bangladesh and US$ 105.0 in India."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La prévention et le traitement des maladies non transmissibles représentent 36,5 US$ au Bangladesh et 51,7 US$ en Inde.",
+            "en": "Of this, prevention and treatment of noncommunicable diseases account for US$ 36.5 in Bangladesh and U$ 51.7 in India."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le surcoût par habitant en milieu urbain pour toutes les interventions serait de 50 US$ au Bangladesh et 75 US$ en Inde.",
+            "en": "The incremental cost per urban inhabitant for all interventions would be US$ 50 in Bangladesh and US$ 75 in India."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En 2030, les décès évités chez les personnes âgées de moins de 70 ans représenteraient 30,5% (1027/3362) et 21,2% (828/3913) du nombre de décès estimé de référence au Bangladesh et en Inde, respectivement.",
+            "en": "In 2030, the averted deaths among people younger than 70 years would constitute 30.5% (1027/3362) and 21.2% (828/3913) of the estimated baseline deaths in Bangladesh and India, respectively."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les effets bénéfiques pour la santé de l'investissement dans l'ensemble des interventions permettraient un rendement de 1,2 US$ par dollar dépensé au Bangladesh et 1,8 US$ par dollar dépensé en Inde.",
+            "en": "The health benefits of investing in the package would return US$ 1.2 per dollar spent in Bangladesh and US$ 1.8 per dollar spent in India."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Linvestissement dans lensemble dinterventions essentielles en santé, qui répond aux besoins en soins de santé de la population urbaine croissante au Bangladesh et en Inde, semble bénéfique et pourrait aider les pays à atteindre leurs objectifs de développement durable à lhorizon 2030.",
+            "en": "Investing in the package of essential health interventions, which address health-care needs of the growing urban population in Bangladesh and India, seems beneficial and could help the countries to achieve their 2030 sustainable development goals."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les Etats-Unis d'Amérique ont été les témoins d'une augmentation sans précédent dans le nombre de femmes incarcérées, la plupart étant des mères avec des enfants mineurs.",
+            "en": "The United States has seen unprecedented growth in the number of incarcerated women, most of whom are mothers with minor children."
+        }
+    },
+    {
+        "translation": {
+            "fr": "De grands problèmes de santé publique sont liés à la santé reproductive des femmes en prison et au bien-être de leurs nourrissons et de leurs jeunes enfants.",
+            "en": "Major public health concerns relate to the reproductive health of women in prisons and jails and the well-being of their infants and young children."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans cet article nous utilisons une structure de justice reproductive afin dexaminer lintersection de lincarcération et de la santé maternelle et de lenfant.",
+            "en": "In the current article, we use a reproductive justice framework to examine the intersection of incarceration and maternal and child health."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous passons en revue: 1) les recherches actuelles sur la santé reproductive des femmes incarcérées, 2) les caractéristiques et les expériences des femmes incarcérées enceintes, 3) les résultats des nourrissons et des jeunes enfants avec des parents incarcérés, 4) les implications des résultats de recherche pour les lois et la pratique, et 5) le besoin de plus de recherches, plus déducation publique, plus de promotion et défense.",
+            "en": "We review (a) current research on the reproductive health of incarcerated women, (b) characteristics and experiences of pregnant incarcerated women, (c) outcomes of infants and young children with incarcerated parents, (d) implications of research findings for policy and practice, and (e) the need for increased research, public education, and advocacy."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous recommandons fortement que les politiques et les pratiques correctionnelles soient mises à jour afin de tenir compte des idées fausses et des biais communs, ainsi que des vulnérabilités et des besoins de santé spécifiques des femmes incarcérées et de leurs jeunes enfants.",
+            "en": "We strongly recommend that correctional policies and practices be updated to address the common misconceptions and biases as well as the unique vulnerabilities and health needs of incarcerated women and their young children."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Strategie et modalites d'aide a l'arret du tabac chez les fumeurs tuberculeux.",
+            "en": "[Strategy and stopping smoking interventions in smokers with tuberculosis]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La tuberculose et le tabagisme sont à lorigine dune lourde mortalité dans le monde.",
+            "en": "Tuberculosis (TB) and smoking are causing a heavy mortality worldwide."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La fumée du tabac augmente les risques dinfection à Mycobacterium tuberculosis et de tuberculose active, appelée tuberculose-maladie (TM) dont le risque de tuberculoses pulmonaires sévères, à bacilles résistants et des décès dus à cette maladie.",
+            "en": "Tobacco smoke increases the risk of Mycobacterium tuberculosis infection and tuberculosis disease, including severe pulmonary tuberculosis, resistant bacilli forms and death from this disease."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les patients fumeurs atteints de tuberculose ont une moins bonne observance du traitement antituberculeux que les non-fumeurs.",
+            "en": "Smoking patients with TB have poorer compliance with treatment of tuberculosis than non-smokers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans les pays à forte incidence de tuberculose où la prévalence du tabagisme tend à augmenter, larrêt du tabac représente un moyen de contrôle de lépidémie de tuberculose.",
+            "en": "In countries with high TB incidence and smoking prevalence tending to increase, smoking cessation is a means of controlling the TB epidemic."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Larrêt du tabac améliore le cours de la tuberculose et favorise sa guérison définitive; il saccompagne dune meilleure observance thérapeutique.",
+            "en": "Stopping smoking improves the course of tuberculosis and promotes its final cure, it is accompanied by a better therapeutic observance."
+        }
+    },
+    {
+        "translation": {
+            "fr": "LOMS a recommandé une coordination entre les programmes nationaux antituberculeux et antitabac afin doptimiser la lutte contre lépidémie de tuberculose.",
+            "en": "WHO recommended coordination between national tuberculosis and tobacco control programs to optimize control of the TB epidemic."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La mobilisation des professionnels de santé dans laide à larrêt des fumeurs atteints de tuberculose est requise.",
+            "en": "The mobilization of health professionals in helping smokers with tuberculosis stopping smoking is required."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les patients recevant une hémodialyse intermittente (HDI) sont à risque élevé davoir des infections gram positives, qui sont fréquemment traitées avec de la vancomycine IV.",
+            "en": "Patients receiving intermittent hemodialysis (IHD) are at high risk of acquiring gram-positive infections, which are often treated with IV vancomycin."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Malgré lutilisation fréquente de la vancomycine dans les environnements dHDI, les pratiques portant sur le dosage et le suivi varient entre les cliniciens de linstitution où létude sest déroulée.",
+            "en": "Despite frequent use of vancomycin in the IHD setting, there is variability in dosing and monitoring practices among clinicians at the study institution."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il existe également une rareté des données probantes concernant le dosage optimal de vancomycine pour atteindre la concentration sérique préHDI cible.",
+            "en": "There is also a paucity of evidence regarding optimal vancomycin dosing to achieve target pre-IHD serum concentration."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectifs",
+            "en": "Objectives"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lobjectif principal visait à comparer le pourcentage de traitements, dont la concentration sérique de vancomycine se situait entre 15 et 20 mg/L, lors de la mesure prise avant la troisième séance dHDI, avant et après la mise en place dun protocole de dosage basé sur le poids.",
+            "en": "The primary objective was to compare the percentage of treatment courses with a serum vancomycin concentration between 15 and 20 mg/L, measured before the third IHD session, before and after implementation of a weight threshold-based dosing protocol."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les objectifs secondaires visaient à comparer le pourcentage de traitements, dont la concentration de vancomycine mesurée avant la troisième séance dHDI était comprise entre 10 et 22 mg/L, et le nombre de mesures de vancomycine par jour de traitement, avant et après la mise en place du protocole.",
+            "en": "The secondary objectives were to compare the percentage of treatment courses with a pre-third IHD vancomycin concentration between 10 and 22 mg/L and the number of vancomycin measurements per treatment day, before and after protocol implementation."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cette étude quasi expérimentale, menée dans un seul centre, comprenait des patients hospitalisés et ambulatoires ayant subi une HDI et reçu au moins deux doses de vancomycine par IV et dont un échantillon prélevé de manière appropriée avant la troisième séance dHDI a permis de mesurer la vancomycine.",
+            "en": "This quasi-experimental, single-centre study included inpatients and outpatients who underwent IHD and received at least 2 IV doses of vancomycin, with vancomycin being measured in an appropriately drawn sample before the third IHD session."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Avant la mise en place du protocole, le dosage de vancomycine était à la discrétion du clinicien (soins courants).",
+            "en": "Before protocol implementation, vancomycin dosing was at the clinician's discretion (usual care)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Après la mise en place du protocole, chaque patient a reçu une dose de charge de 1000, 1500 ou 2000 mg et une dose dentretien de 500, 750 ou 1000 mg, selon le poids corporel.",
+            "en": "After protocol implementation, each patient received a loading dose of 1000, 1500, or 2000 mg and a maintenance dose of 500, 750, or 1000 mg, depending on body weight."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le pourcentage de traitements dont la concentration de vancomycine mesurée avant la troisième séance dHDI était comprise entre 15 et 20 mg/L était plus élevé après la mise en place du protocole que avec les soins habituels, mais la différence était non significative (44 % [8/18] contre 20 % [3/15], p = 0,27).",
+            "en": "The percentage of treatment courses with a pre-third IHD vancomycin concentration between 15 and 20 mg/L was greater after implementation of the protocol than with usual care, but the difference was nonsignificant (44% [8/18] versus 20% [3/15], p = 0.27)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cependant, le pourcentage de traitements dont la concentration de vancomycine mesurée avant la troisième séance dHDI était comprise entre 10 et 22 mg/L était significativement plus élevé après la mise en place du protocole (94 % [17/18] contre 53 % [8/15], p = 0,012).",
+            "en": "However, the percentage of treatment courses with a pre-third IHD vancomycin concentration between 10 and 22 mg/L was significantly higher after protocol implementation (94% [17/18] versus 53% [8/15], p = 0.012)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le nombre moyen de mesures de vancomycine par traitement navait pas varié entre le jour précédant et le jour suivant la mise en place du protocole (0,133 contre 0,125, p = 0,99).",
+            "en": "There was no difference in the median number of vancomycin measurements per treatment day before and after protocol implementation (0.133 versus 0.125, p = 0.99)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusions",
+            "en": "Conclusions"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans linstitution où létude sest déroulée, la probabilité datteindre la concentration de vancomycine recommandée avait augmenté après la mise en place dun protocole simplifié de dosage de vancomycine pour les patients recevant une HDI comparativement à une pratique antérieure.",
+            "en": "At the study institution, the likelihood of achieving recommended vancomycin concentration increased (relative to previous practice) after implementation of a simplified vancomycin dosing protocol for patients undergoing IHD."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les Asiatiques du sud originaires du sous-continent indien (Inde, Pakistan, Sri Lanka, Bangladesh, Népal et Bhoutan) représentent le quart de la population mondiale et constituent la plus importante minorité visible au Canada.",
+            "en": "South Asians (SAs), originating from the Indian subcontinent (India, Pakistan, Sri Lanka, Bangladesh, Nepal, and Bhutan), represent one quarter of the global population and are the largest visible minority in Canada."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cest aussi au sein de cette population quon observe les taux de coronaropathie les plus élevés au Canada.",
+            "en": "SAs experience the highest rates of coronary artery disease in Canada."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Bien que les facteurs de risque cardiovasculaire classiques conservent leur valeur prédictive chez les Asiatiques du sud, ils nexpliquent pas à eux seuls le risque excédentaire observé.",
+            "en": "Although conventional cardiovascular risk factors remain predictive in SA, the excess risk is not fully explained by these risk factors alone."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lobésité abdominale, le syndrome métabolique et la résistance à linsuline sont susceptibles de contribuer à un risque plus élevé chez les Asiatiques du sud que dans dautres populations.",
+            "en": "Abdominal obesity, metabolic syndrome, and insulin resistance likely contribute a greater risk in SAs than in other populations."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La South Asian Heart Alliance a récemment été mise sur pied afin dexplorer les stratégies exemplaires pour la prévention des maladies cardiométaboliques chez les Asiatiques du sud au Canada et de formuler des recommandations à cet égard.",
+            "en": "The South Asian Heart Alliance has been recently formed to investigate and recommend the best strategies for the prevention of cardiometabolic disease in SAs in Canada."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article présente un aperçu de limportance des maladies cardiovasculaires au sein de la population des Asiatiques du sud du Canada, ainsi quun résumé des marqueurs de risque classiques et nouveaux dans cette population.",
+            "en": "This topic review represents a comprehensive overview of the magnitude of cardiovascular disease in SAs in Canada, with a review of conventional and novel risk markers in the SA population."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les auteurs proposent des stratégies de prévention primaire et secondaire adaptées, dans la mesure du possible, à la population des Asiatiques du sud.",
+            "en": "Both primary and secondary prevention strategies are suggested and when possible, adapted specifically for the SA population."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ils font également ressortir limportance de sensibiliser davantage les Asiatiques du sud et les professionnels de la santé aux risques et aux solutions possibles, ainsi que la nécessité de mener des recherches axées sur cette population particulière.",
+            "en": "The need for SAs and their healthcare professionals to be more aware of the problem and potential solutions, along with the need for population-specific research, is highlighted."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Progrès en oncologie 2019.",
+            "en": "[Advances in Oncology 2019]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Sous légide de la médecine hautement spécialisée, de la personnalisation des traitements et secondée par une recherche énergique, loncologie a connu en 2019 des avancées considérables.",
+            "en": "Driven by highly specialized medicine, research and the quest for personalization of treatments, oncology witnessed substantial advances in 2019."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cette année, de nombreux traitements ont consolidé leur importance et élargi leurs indications.",
+            "en": "This year numerous treatments have consolidated their importance and broadened their indications."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le but du présent article est de rassembler les avancées oncologiques de lannée.",
+            "en": "This article provides an overview of this year's advances in oncology."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Anticorps biosimilaires : étude comparative de la qualité analytique et fonctionnelle.",
+            "en": "[Biosimilar monoclonal antibodies: comparative study of analytical and functional quality]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lobtention dune autorisation de mise sur le marché biosimilaires nécessite une démonstration stricte de la similitude avec lanticorps de référence, par le biais détudes précliniques et cliniques.",
+            "en": "Biosimilars marketing authorization requires a strict demonstration of similarity with the reference antibody, through preclinical and clinical studies."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article synthétise lensemble des analyses physicochimiques et fonctionnelles mises en œuvre in vitro, préalables à la réalisation détudes cliniques.",
+            "en": "This article reviews the panel of in vitro physicochemical and functional analyses, which are performed prior to clinical studies."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Pour chaque attribut critique de lanticorps, nous détaillons les techniques danalyse généralement utilisées, leur principe de travail et le type dinformation quils peuvent fournir.",
+            "en": "For each critical attribute of the antibody, we detail the commonly used analytical techniques, their working principle and the type of information they may give."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le tableau Statistiques rapides sur les Indicateurs des maladies chroniques au Canada présente les estimations du fardeau des maladies chroniques ainsi que les mesures de la santé générale et des déterminants connexes de la santé.",
+            "en": "The 2019 edition of the Canadian Chronic Disease Indicators (CCDI) provides recent estimates of the burden of chronic conditions and measures of general health and associated determinants in Canada."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des échantillons de sérum et des écouvillons nasaux prélevés de dromadaires ont été analysés afin de détecter la présence danticorps dirigés contre le MERS-CoV ou dARN de ce même virus, en utilisant respectivement une épreuve immuno-enzymatique recombinante (ELISAr) et une amplification en chaîne par polymérase couplée à une transcription inverse (PCR–RT) en temps réel.",
+            "en": "Serum and nasal swab samples were tested for MERS-CoV antibodies andribonucleic acid (RNA) using a recombinant enzyme-linked immunosorbent assay (rELISA) and real-time reverse-transcription polymerase chain reaction (rRT-PCR), respectively."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les modèles à plusieurs variables ont fait apparaître une association significative (p??0,05) entre la prévalence sérologique et les facteurs suivants : la région, lâge des animaux, le système pastoral pratiqué, lexposition à la faune sauvage et lélimination du fumier.",
+            "en": "The multivariate models identified region, age, grazing system, exposure to wild animals and dung removal as factors significantly associated with seroprevalence (p ??0.05)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La probabilité dun séroprévalence était plus élevée chez les dromadaires des régions de Riyad, de lEst, du Nord et de La Mecque que chez ceux de la région de Jazan; chez les dromadaires âgés de??4 ans et de 1 à 3 ans (différence marginalement significative) que chez les veaux âgés de moins dun an; et chez les dromadaires élevés dans des systèmes de pâturages zéro et semi-ouverts que chez ceux élevés dans un système de pâturage ouvert.",
+            "en": "A higher seroprevalence was more likely to occur in camels from the Riyadh, Eastern, Northern and Makkah regions than those from the Jazan region; camels ??4 and 1-3 years of age (marginally significant) than calves < 1 year; and camels raised in zero grazing and semi-open grazing systems than those raised in an open grazing system."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cependant, la présence danimaux sauvages et lélimination du fumier par jour ont été associées à un effet négatif sur la prévalence sérologique.",
+            "en": "However, the presence of wild animals and daily dung removal were negatively associated with seroprevalence."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Enfin, la région et le sexe étaient significativement associés à la prévalence de lARN du MERS-CoV (p??0,05).",
+            "en": "On the other hand, region and sex were significantly associated with MERS-CoV RNA prevalence(p ??0.05)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La probabilité dune prévalence plus élevée de lARN viral était plus prononcée chez les dromadaires des régions de Riyad et de lEst (différence marginalement significative) que chez ceux de la région de La Mecque, et chez les mâles que chez les chamelles.",
+            "en": "A higher viral RNA prevalence was more likely to occur in camels from the Riyadh region and Eastern region (marginally significant) than in those from the Makkah region, and in male camels than female camels."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En conclusion, les facteurs de risque identifiés dans cette étude peuvent servir dannonciateurs de linfection par le MERS-CoV chez les dromadaires et devraient être pris en compte pour élaborer une stratégie efficace et rentable de lutte contre cette maladie.",
+            "en": "In conclusion, the risk factors identified in this study can be considered to be predictors of MERS-CoV infection in camels and should be taken into account when developing an efficient and cost-effective control strategy."
+        }
+    },
+    {
+        "translation": {
+            "fr": "PROFILES: portrait-type de nos futurs medecins!",
+            "en": "[PROFILES: typical portrait of the future Swiss doctors]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans chaque pratique professionnelle, une part plus ou moins grande de lactivité est dévolue à lenseignement.",
+            "en": "In each professional practice, a greater or lesser part of the activity is devoted to teaching."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En effet, la transmission de lart médical représente un objectif essentiel pour la formation des étudiant·e·s et des jeunes collègues, mais aussi une opportunité pour adapter ses pratiques au contexte actuel, car les changements, rapides, ne sont pas forcément faciles à assimiler.",
+            "en": "Indeed, the transmission of the medical knowledge is an essential objective for the training of students and residents, but also an opportunity to adapt one's own practices to the current context, since fast changes are not necessarily easy to follow and assimilate."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Si, dans les hôpitaux universitaires, le contact avec les Facultés de médecine est plutôt aisé, il nen va pas toujours de même pour ceux qui en sont plus distants, mais dont la participation à lenseignement est souhaitée et croissante.",
+            "en": "If the relationship with Medical school is rather straightforward in the university hospitals, it is not always the same for those who are more distant, but whose participation in teaching is desired, and clearly growing."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En ce sens, il apparaît crucial que tou·te·s soient informé·e·s sur les modifications récentes des objectifs dapprentissage prégradué (PROFILES) et sur les réformes qui en découlent pour les Facultés de médecine en Suisse.",
+            "en": "In this way, it is therefore crucial that everyone is informed about recent changes to the undergraduated learning objectives (PROFILES) and the resulting needs for educational reforms for all Medical schools in Switzerland."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article élabore le concept de « capitalisme forteresse ».",
+            "en": "\"The article develops the concept of \"\"fortress capitalism.\"\"\""
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ce concept comporte deux volets.",
+            "en": "The concept has two dimensions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Premièrement, il décrit les éléments de la migration et des régimes frontaliers actuels visant à contrôler la mobilité de la classe ouvrière mondiale de façon répressive.",
+            "en": "First, it describes those elements within today's migration and border regimes that aim to control the mobility of the global working class in repressive ways."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Deuxièmement, il désigne un scénario dystopique futur, dans lequel ces éléments répressifs se seront sensiblement étendus.",
+            "en": "Second, it designates a dystopian future scenario, in which these repressive elements have massively expanded."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une telle formation peut se développer comme faisant partie du fascisme du XXIème siècle.",
+            "en": "Such a formation might develop as part of a twenty-first-century fascism."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Se fondant sur le matérialisme historique et la théorie critique, cet article avance quatre arguments.",
+            "en": "Based on historical materialism and critical theory, the article makes four points."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Premièrement, il affirme que les régimes migratoires sont en train dêtre transformé vers un nouveau niveau de restriction.",
+            "en": "First, it asserts that migration regimes are being transformed toward a new level of restrictiveness."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Deuxièmement, il fait valoir que le capitalisme forteresse complète les motifs théoriques qui soulignent le caractère incontrôlable de la migration.",
+            "en": "Second, it argues that fortress capitalism complements theoretical motives that emphasize the uncontrollability of migration."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Troisièmement, il fait valoir que la migration et les régimes frontaliers dans leur émergence, leur dynamique, leurs formes et leurs effets sont étroitement liés à la dynamique intersectionnelle du capitalisme mondial dans son ensemble.",
+            "en": "Third, it contends that migration and border regimes in their emergence, dynamics, forms, and effects are closely linked to the intersectional dynamics of global capitalism as a whole."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Quatrièmement, il souligne que le capitalisme mondial dépend foncièrement des régimes frontaliers afin de pouvoir réglementer ses contradictions.",
+            "en": "Fourth, it points out that global capitalism fundamentally depends on border regimes to regulate its contradictions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "On ne connaît pas très bien les attentes en matière de recherche et de formation des diplômés en chirurgie générale moderne qui souhaitent poursuivre des études chirurgicales.",
+            "en": "Little is known regarding the research and training expectations faced by modern general surgery graduates interested in pursuing academic surgical careers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans cette étude nous décrivons lévolution de la face de la chirurgie générale universitaire canadienne en soulignant la productivité de la recherche en résidence ainsi que les tendances de la formation clinique et académique post-résidence dans le temps.",
+            "en": "In this study, we describe the changing face of the Canadian academic general surgeon by outlining the in-residency research productivity and postresidency clinical and academic training trends over time."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les points de données étaient les suivants : institution, nomination et grade des professeurs, année d'obtention du diplôme, études à des niveaux supérieurs, formation postdoctorale et productivité de la recherche.",
+            "en": "Data points included institution, faculty appointment and rank, graduation year, graduate education, fellowship training and research productivity."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Notre cohorte comprenait 417 chirurgiens de 17 établissements universitaires canadiens.",
+            "en": "Our cohort included 417 surgeons from 17 Canadian academic institutions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La majorité dentre eux étaient des hommes (72,9 %), avaient effectué au moins 1 stage postdoctoral (72,9 %) et avaient reçu une formation supplémentaire en recherche (51,8 %).",
+            "en": "The majority of surgeons were male (72.9%), had completed at least 1 fellowship (72.9%) and had had some form of supplementary research training (51.8%)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le nombre dannées de pratique médian était de 17 (10 à 27) ans.",
+            "en": "Surgeons in the cohort had practised a median of 17 (10–27) years."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le nombre moyen de publications des membres de la cohorte à titre de coauteur et dauteur a augmenté chaque décennie jusquaux années 1980 (p < 0,001).",
+            "en": "The mean number of total and first-author publications for the participants in this study has increased consistently each decade before the 1980s (p < 0.001)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le pourcentage des professeurs de chirurgie ayant un diplôme détudes supérieures a aussi augmenté de façon constante dune décennie à lautre, pour atteindre 61,5 % dans les années 2010.",
+            "en": "The proportion of academic surgeons completing graduate degrees has increased steadily every decade, reaching a peak of 61.5% for surgeons graduating in the 2010s."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les professeurs de chirurgie canadiens font de plus en plus de recherchedurant la résidence, sont plus nombreux à poursuivre des études à des niveaux supérieurs et effectuent plus de stages postdoctoraux que jamais.",
+            "en": "The Canadian academic surgeon is becoming increasingly productive in research during residency and is pursuing higher levels of graduate education and more fellowships than ever before."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces changements correspondent sans doute à une évolution de lemploi et du financement de la recherche, qui fait peser une forte pression académique sur les stagiaires en chirurgie.",
+            "en": "These changes probably correspond to an evolving employment and research funding landscape that places tremendous academic pressure on surgical trainees."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectif",
+            "en": "Objective"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Estimer l'exhaustivité de l'enregistrement des naissances vivantes dans le système sud-africain des registres et des statistiques de l'état civil entre 1996 et 2011.",
+            "en": "To estimate the completeness of live birth registration through South Africa's civil registration and vital statistics system between 1996 and 2011."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le nombre de naissances enregistrées par le système des registres et des statistiques de l'état civil a été comparé à des estimations indépendantes du nombre réel de naissances, obtenues grâce à: (i) la méthode des coefficients de survie inversée, appliquée aux données du recensement de 2011; (ii) l'application d'un taux de fécondité par âge à des prévisions démographiques issues de recensements et d'enquêtes; (iii) des données du secteur public extraites du système d'information sanitaire des districts.",
+            "en": "The number of births registered by the civil registration and vital statistics system was compared with independent estimates of the true number of births derived using: (i) the reverse survival method applied to 2011 census data; (ii) the application of estimated age-specific fertility rates to population estimates from censuses and surveys; and (iii) data from the public-sector district health information system."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Findings"
+        }
+    },
+    {
+        "translation": {
+            "fr": "On estime qu'en 1996, 25% des naissances ont été enregistrées pendant l'année civile de la naissance et 33% avant la fin de l'année civile suivante.",
+            "en": "In 1996, an estimated 25% of births were registered within the calendar year of birth and 33% were registered before the end of the subsequent calendar year."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En 2008, 76% des enregistrements ont eu lieu pendant l'année civile de la naissance, 84% avant la fin de l'année suivante et 90% avant le cinquième anniversaire de l'enfant.",
+            "en": "By 2008, 76% of registrations occurred within the calendar year of birth, 84% occurred by the end of the following year and 90% occurred before the child's fifth birthday."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces améliorations ont été observées dans toutes les provinces et les différencesentre provinces en matière d'exhaustivité ont sensiblement diminué.",
+            "en": "These improvements were seen in all provinces and differences in completeness between provinces narrowed markedly."
+        }
+    },
+    {
+        "translation": {
+            "fr": "L'amélioration de l'exhaustivité des enregistrements a coïncidé avec les efforts du gouvernement pour renforcer le système, avec une nouvelle législation sur l'enregistrement des données d'état civil ainsi quavec la mise en place d'allocations d'entretien des enfants exigeant un certificat de naissance.",
+            "en": "Improvements in the completeness of registration coincided with government efforts to strengthen the system, new legislation on vital registration and the introduction of child support grants, which required birth certificates."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La migration interprovinciale des enfants a influé sur l'exhaustivité des enregistrements dans les provinces concernées.",
+            "en": "Interprovincial migration of children influenced the completeness of registration in affected provinces."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les agences gouvernementales ont connu une certaine confusion terminologique, s'agissant de définir le moment d'enregistrement et l'année de naissance.",
+            "en": "There was some terminological confusion among government agencies on defining the timeliness of registration and the year of birth."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "L'exhaustivité de l'enregistrement des naissances en Afrique du Sud sest rapidement améliorée entre 1996 et 2004.",
+            "en": "The completeness of birth registration in South Africa increased rapidly between 1996 and 2004."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Afin de permettre une comparaison internationale, il est nécessaire de standardiser la méthode employée pour mesurer l'exhaustivité de l'enregistrement des naissances.",
+            "en": "To allow international comparison, the method for measuring the completeness of birth registration needs to be standardized."
+        }
+    },
+    {
+        "translation": {
+            "fr": "OBJECTIF",
+            "en": "OBJECTIVE"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Afin dévaluer limpact de lépidémie du VIH et le déploiement du traitement antirétroviral (ART depuis 2004) sur la charge de la tuberculose (TB) spécifique au sexe, à Cape Town, nous avons examiné les changements temporels dans les taux de notification de la TB, le risque relatif de TB associé au VIH et la fraction de risque attribuable à la population (FAP) du VIH par sexe.",
+            "en": "To assess the impact of the HIV epidemic and the rollout of antiretroviral therapy (ART) from 2004 on the gender-specific TB burden in Cape Town, we investigated temporal changes in TB notification rates, the HIV-associated relative risk of TB and the population attributable risk fraction (PAF) of HIV by gender."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les notifications de tuberculose, les estimations de la population en milieu dannée et la prévalence du VIH ont été utilisées pour calculer les taux pour 100 000 habitants stratifiées par sexe et le VIH.",
+            "en": "Annual TB notifications, mid-year population and HIV prevalence estimates were used to calculate rates per 100 000 population stratified by gender and HIV."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les rapports de risque (RR) de TB associé au VIH et la FAP ont été calculés par sexe.",
+            "en": "Annual rate ratios (RR) of TB associated with HIV and PAF were calculated by gender."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les taux de notification pré-VIH de la tuberculose étaient moins élevés chez les femmes que chez les hommes (146/100.000 contre 247/100.000).",
+            "en": "Pre-HIV TB notification rates were lower among women than men (146/100 000 vs. 247/100 000)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le RR associé au VIH de TB était 25% plus élevé chez les femmes quaux hommes en 2006 (25 contre 20), mais il est passé au même niveau en 2014.",
+            "en": "The HIV-associated RR of TB was 25% higher in women than in men in 2006 (25 vs. 20), but decreased to the same level in 2014."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La FAP sur le VIH a diminué entre 2008 et 2014, de 56 % à 50 % et de 40 % à 38 % chez les femmes et les hommes, respectivement.",
+            "en": "HIV PAF declined between 2008 and 2014 from 56% to 50% and from 40% to 38% in women and men, respectively."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSIONS",
+            "en": "CONCLUSIONS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lépidémie du VIH a entraîné une augmentation relative du taux de TB chez les femmes supérieure à celle des hommes.",
+            "en": "The HIV epidemic led to greater relative increases in TB rates among women than men."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Laugmentation du risque de TB associé au VIH chez les femmes pourrait être compatible avec la suppression de la protection biologique du sexe féminin par linfection au VIH.",
+            "en": "The increased HIV-associated TB risk in women could be compatible with removal of the biological protection of female gender by HIV infection."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La baisse des RR et de la FAP chez les femmes VIH positives pourrait être expliquée par une augmentation de l'utilisation de lART inversant la sensibilité liée au sexe féminin.",
+            "en": "The decline in RR and PAF in HIV-positive women could be explained by increasing ART usage reversing female gender-related susceptibility."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Amélioration de la surveillance pour le dépistage précoce de linfection par le virus Zika: stratégies pour les pays de la Région de Méditerranée orientale.",
+            "en": "Enhancing surveillance for early detection of Zika virus infection: strategies for the countries of Eastern Mediterranean Region."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Linfection par le virus Zika est à lorigine dimportantes flambées épidémiques dans les régions tropicales et subtropicales.",
+            "en": "Zika virus infection (ZIKV) has caused major outbreaks in tropic and sub-tropic areas."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Aucun cas de Zika na encore été signalé dans les pays de la Région de Méditerranée orientale (EMR), en dépit de la présence de moustiques vecteurs Aedes dans de nombreux pays.",
+            "en": "No case from ZIKV has yet been reported in the countries of the Eastern Mediterranean Region (EMR) despite the presence of competent vector Aedes mosquitoes in many of these countries."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectifs",
+            "en": "Aims"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La présente étude porte sur les stratégies de surveillance à mettre en oeuvre pour le dépistage précoce de linfection par le virus Zika, particulièrement important dans les pays de la Région de Méditerranée orientale où des populations dAedes sont établies mais dans lesquels aucune transmission autochtone de ce virus nest connue ou documentée à ce jour.",
+            "en": "This study addresses appropriate surveillance strategies for early detection of ZIKV infection, which is important for EMR countries with established Aedes populations, but with no known or documented autochthonous transmission of ZIKV."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Par lintermédiaire dun processus consultatif et dexamen des données disponibles, le Bureau régional de lOMS pour la Méditerranée orientale a développé un cadre stratégique en vue daméliorer la surveillance de linfection par le virus Zika dans les pays de la Région de Méditerranée orientale où sont établies des populations dAedes.",
+            "en": "The WHO Regional Office for the Eastern Mediterranean developed a strategic framework for enhancing surveillance for ZIKV infection in EMR countries with established Aedes populations through a consultative process and review of available evidence."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Afin de dépister de façon précoce linfection par le virus Zika, ce cadre préconise une meilleure surveillance en recourant à la fois à la surveillance syndromique et basée sur les événements.",
+            "en": "The framework calls for enhancing surveillance for early detection of ZIKV infection using a combination of both syndromic and event-based surveillance approaches."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusions",
+            "en": "Conclusions"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lamélioration de la surveillance du Zikav nexigerait pas de changement dans le système existant.",
+            "en": "Enhancing surveillance for ZIKAV would require no shift in the existing system."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un certain nombre daspects devraient être pris en compte afin dintégrer ces approches de surveillance syndromique et basée sur les événements dans le système existant.",
+            "en": "A number of considerations would be required to integrate this syndromic and event-based surveillance approaches within the existing system."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Guide de première intention de lévaluation de lallergie à la pénicilline en pratique médicale générale.",
+            "en": "[A first-line guide to the evaluation of « Penicillin Allergy » in general medical practice]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article propose un résumé des connaissances actuelles des données épidémiologiques sur le sujet et un modèle de prise en charge en première intention des « notions dallergie à la pénicilline ».",
+            "en": "This review aims to summarize the current knowledge on penicillin allergy epidemiologic data and proposes a first-line guide for general practitioners to the evaluation of the patient with a history of « penicillin allergy »."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Étude physiopathologique de la myopathie de Bethlem à laide dun modèle de poisson zèbre -",
+            "en": "[Unraveling the pathophysiology of Bethlem Myopathy using a unique zebrafish model for the disease]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La myopathie de Bethlem (BM) est une maladie caractérisée par des rétractions et une faiblesse musculaires.",
+            "en": "Bethlem myopathy (BM) is a neuromuscular disease characterized by joint contractures and muscle weakness."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cette pathologie résulte de mutations dans un des gènes codant lune des trois chaînes α du collagène VI (COLVI), un composant de la matrice extracellulaire musculaire squelettique.",
+            "en": "BM is caused by mutations in one of the genes encoding one of the three α-chains of collagen VI (COLVI), a component of the skeletal muscle extracellular matrix."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Aujourdhui, une question non résolue est de comprendre comment laltération de COLVI présent à lextérieur des cellules musculaires conduit à des modifications fonctionnelles dans les fibres musculaires.",
+            "en": "Nowadays, an unresolved question is to understand how alteration of COLVI located outside the muscle cells leads to functional modifications in muscle fibers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le modèle de poisson zèbre col6a1Δex14 est actuellement le modèle animal unique de la maladie, car il sagit du seul modèle à reproduire une mutation qui soit la plus fréquente chez les patients atteints de MB.",
+            "en": "The zebrafish model col6a1Δex14 is currently the unique animal model of the disease since it is the only model to reproduce a mutation that is the most frequently found in BM patients."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Chez les patients et le poisson col6a1Δex14, la structure du réticulum sarcoplasmique est altérée, suggérant une perturbation de lhoméostasie calcique musculaire et/ou des canaux ioniques qui, en contrôlant cette homéostasie, jouent un rôle crucial dans la fonction et la pathogenèse musculaire.",
+            "en": "In patient and col6a1Δex14 zebrafish muscles, the structure of the sarcoplasmic reticulum has been found to be altered, thus suggesting dysfunction in intracellular Ca2+ handling and/or in ion channels that are known to control Ca2+ homeostasis and to play pivotal roles in muscle function and pathogenesis."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Notre projet vise ainsi à étudier à laide de techniques électrophysiologiques et de mesure de Ca2+ les propriétés des canaux ioniques et la régulation du Ca2+ intracellulaire au repos et en activité dans la fibre musculaire du poisson col6a1Δex14.",
+            "en": "Therefore, our project aims at exploring the properties of ion channels and intracellular Ca2+ regulation using electrophysiological approaches and intracellular Ca2+ measurement at rest and during activity in isolated muscle fibers from col6a1Δex14 zebrafish."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nos recherches devraient contribuer à mieux comprendre comment la perturbation de la matrice influe sur la fonction musculaire et conduire à terme à identifier des cibles thérapeutiques pour traiter cette maladie actuellement incurable.",
+            "en": "On one hand, this project should contribute to decipher how alteration in an extracellular matrix component transduces pathogenic signals within muscle fiber and should possibly lead to identify therapeutic targets for this currently incurable disease."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Enfin, du fait de la rareté des études fonctionnelles sur la cellule musculaire de poisson zèbre, ce projet permettra de constituer une base de données de référence sur les propriétés électrophysiologiques de ce modèle.",
+            "en": "On the other hand, because functional studies on zebrafish muscle cells are scarce, this project will provide a sound database on the electrophysiological properties of this cell model."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Problème",
+            "en": "Problem"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au Burkina Faso, la couverture des services de planification familiale est faible, en raison de la pénurie de personnel de santé qualifié et de l'accès limité à ces services.",
+            "en": "In Burkina Faso, the coverage of services for family planning is low due to shortage of qualified health staff and limited access to services."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Approche",
+            "en": "Approach"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Suite au lancement du Partenariat de Ouagadougou, une alliance visant à catalyser lexpansion des services de planification familiale, le ministère de la Santé a créé en 2011 un consortium dacteurs de la planification familiale.",
+            "en": "Following the launch of the Ouagadougou Partnership, an alliance to catalyse the expansion of family planning services, the health ministry created a consortium of family planning stakeholders in 2011."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ce consortium a adopté un cadre collaboratif pour mettre en œuvre un projet pilote visant à partager les tâches de planification familiale, aux niveaux de la communauté et des centres de soins primaires, dans deux districts ruraux.",
+            "en": "The consortium adopted a collaborative framework to implement a pilot project for task sharing in family planning at community and primary health-care centre levels in two rural districts."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le ministère de la Santé a mis en place des cascades de surveillance soutenue impliquant des niveaux de planification et de services pertinents.",
+            "en": "The health ministry implemented supportive supervision cascades involving relevant planning and service levels."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Environnement local",
+            "en": "Local setting"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au Burkina Faso, seulement 15 % (2563/17087) des femmes mariées ont utilisé des contraceptifs modernes en 2010.",
+            "en": "In Burkina Faso, only 15% (2563/17 087) of married women used modern contraceptives in 2010."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Changements significatifs",
+            "en": "Relevant changes"
+        }
+    },
+    {
+        "translation": {
+            "fr": "L'adoption de nouvelles politiques et de nouveaux standards de soins a élargi les rôles de partage des tâches en matière de planification familiale.",
+            "en": "Adoption of new policies and clinical care standards expanded task sharing roles in family planning."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au total, 79 travailleurs sanitaires et 124 infirmières et sages-femmes auxiliaires ont appris à ce consortium.",
+            "en": "The consortium trained a total of 79 CHWs and 124 auxiliary nurses and midwives."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Entre janvier 2017 et décembre 2018, les TS ont fourni des injecteurs à 3 698 nouveaux utilisateurs, et les infirmières ou sages-femmes auxiliaires ont fourni 726 dispositifs intrautérins et 2574 implants à de nouveaux utilisateurs.",
+            "en": "Between January 2017 and December 2018, CHWs provided injectables to 3698 new users, and auxiliary nurses or midwives provided 726 intrauterine devices and 2574 implants to new users."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Aucun problème de sécurité n'a été signalé.",
+            "en": "No safety issues were reported."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Leçons tirées",
+            "en": "Lessons learnt"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ce projet pilote était réalisable et sûr; cependant, des contraintes financières entravent les efforts d'évolution.",
+            "en": "The pilot project was feasible and safe, however, financial constraints are hindering scale-up efforts."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les cascades de surveillance soutenue étaient essentielles pour assurer le succès.",
+            "en": "Supportive supervision cascades were critical in ensuring success."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les critères de Beers sur les médicaments potentiellement inappropriés chez les adultes âgés constituent un cadre qui permet dévaluer la nature dune pharmacothérapie à risque élevé.",
+            "en": "The Beers Criteria for Potentially Inappropriate Medication Use inOlder Adults is a framework that can assess the nature of high-risk medication use."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lobjectif de cette étude était dutiliser les critères de Beers pour évaluer la prévalence et la nature de la polypharmacologie, lampleur des changements de prescriptions en cours dhospitalisation et limpact des médicaments potentiellement inappropriés sur létat de personnes âgées victimes de traumatismes.",
+            "en": "The objective of this study was to use the Beers Criteria to assess the prevalence and nature of polypharmacy, the magnitude of medication changes during the hospital stay and the impact of Beers Criteria medications on outcomes in older patients with trauma."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons utilisé le registre des traumatismes de l'Alberta pour réaliser une revue rétrospective des patients âgés de 65 ans ou plus victimes d'un traumatisme majeur ( score de gravité des blessures ≥ 12) qui ont été admis dans un centre de niveau 1 entre janvier 2013 et décembre 2014.",
+            "en": "We used the Alberta Trauma Registry to conduct a retrospective review of patients aged 65 years or older with major trauma (Injury Severity Score ≥ 12) who were admitted to a level 1 trauma centre between January 2013 and December 2014."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons analysé les changements de médicaments prescrits durant le séjour hospitalier au moyen de statistiques descriptives et nous avons évalué le lien entre les médicaments potentiellement inappropriés et les variables pertinentes au moyen dune analyse de régression multivariée.",
+            "en": "We analyzed changes in medication prescriptions during the hospital stay using descriptive statistics and assessed the association between Beers Criteria medications and relevant outcomes using multivariable regression analysis."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "On na noté aucun changement significatif entre les médicaments potentiellement inappropriés prescrits avant et après ladmission.",
+            "en": "There was no significant change in the number of Beers Criteria medications prescribed before and after admission."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le rapport des cotes ajusté pour la mortalité à 30 jours pour chaque médicament potentiellement inapproprié prescrit a été de 2,02 (intervalle de confiance [IC] à 95 % 1,16-3,51) contre 1,24 (IC à 95 % 1,04-1,59) pour chaque médicament additionnel, de tout type.",
+            "en": "The adjusted odds ratio for 30-day mortality for each additional Beers Criteria medication prescribed was 2.02 (95% confidence interval [CI] 1.16–3.51) versus 1.24 (95% CI 1.04–1.59) for each additional medication of any type."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les rapports des taux dincidence ajustés correspondants pour la durée de lhospitalisation ont été de 1,15 (IC à 95 % 1,03–,30) contre 1,05 (IC à 95 % 1,01–,10).",
+            "en": "The corresponding adjusted incidence rate ratios for length of stay were 1.15 (95% CI 1.03–1.30) versus 1.05 (95% CI 1.01–1.10)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les médicaments potentiellement inappropriés (selon les critères de Beers) nont pas été cessés durant les admissions pour traumatisme.",
+            "en": "Beers Criteria medications were not discontinued during trauma admissions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lutilisation des critères de Beers comme indicateur de processus pour lamélioration de la qualité des soins en traumatologie pourrait fournir aux équipes interdisciplinaires une occasion de vérifier les médicaments prescrits et de cesser ceux qui sont nuisibles à une population vulnérable.",
+            "en": "Using the Beers Criteria as a process indicator for quality improvement in trauma care may provide interdisciplinary trauma teams an opportunity to audit patient medications and stop potentially harmful medications in a vulnerable population."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Introduction",
+            "en": "Introduction"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les patientes classées comme présentant une entorse à la cheville sont généralement traitées avec une approche dintervention multimodale.",
+            "en": "Patients classified with ankle sprains are commonly treated with a multimode intervention approach."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Actuellement, la protection et la guérison des tissus constituent les formes de soins les plus acceptées pour ces patients.",
+            "en": "Currently, protection and tissue healing are the most accepted forms of care for these patients."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Exposé de cas",
+            "en": "Case presentation"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Gestion et résultats",
+            "en": "Management and outcome"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les résultats cliniques pour les patients traités avec les deux mobilisations fibulaires avec mouvement se sont améliorés et les patients retournent à leurs niveaux dactivité environ trois jours après trois traitements.",
+            "en": "The clinical outcomes for the patients treated with both fibula MWM improved and patients returned to activity levels at about three days after three treatments."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Discussion",
+            "en": "Discussion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au fur et à mesure que la médecine avance et explore de nouvelles théories pour la pratique clinique de réadaptation, il est nécessaire dévaluer les interventions sur les patients.",
+            "en": "As medicine continues to advance and explore new theories for rehabilitative clinical practice it is necessary to assess interventions on patients."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cette série de cas exploratoires prospectifs a été rédigée dans le but de partager une intervention clinique, le concept Mulligan, ainsi que les résultats obtenus chez les patients présentant une entorse latérale de la cheville.",
+            "en": "This prospective exploratory case series was written to share a clinical intervention, Mulligan Concept, and the outcomes that occurred in the patients with a lateral ankle sprain."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Consequences des transfusions sanguines inappropriees.",
+            "en": "[Inappropriate red blood cells transfusion]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Selon les recommandations internationales, une politique de transfusion libérale est non seulement inutile, mais peut aussi savérer néfaste dans certaines situations.",
+            "en": "International guidelines suggest that a liberal transfusion policy is not only unnecessary but can also prove harmful in certain situations."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La transfusion sanguine comporte en effet en grande partie des risques infectieux, allergiques et hémodynamiques.",
+            "en": "Blood transfusion is a costly act involving risks of infection, allergic and hemodynamic."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il est donc nécessaire doptimiser lutilisation de cette ressource rare et coûteuse.",
+            "en": "Optimizing the use of this scarce and expensive resource becomes necessary."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La vignette clinique illustre parfaitement les complications potentielles dune politique de transfusion jugée trop libérale, tout en insistant sur limportance du jugement clinique dans chaque situation.",
+            "en": "The case report depicts perfectly the potential complications of a transfusion policy considered too liberal, while emphasizing the importance of clinical judgment in each situation."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nouvelle méthode de régulation de la demande de soins non planifiés : la plateforme ODISSEE interactive dauto-triage.",
+            "en": "[New method to regulate unscheduled urgent care : the ODISSEE interactive self-triage platform]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La régulation de la demande de soins non planifiés fait partie des approches envisagées pour obtenir une meilleure répartition de la demande de soins parmi les différents intervenants de la santé.",
+            "en": "The regulation of the unscheduled care takes part of the different methods engaged to better organize the global demand for unscheduled urgent care among the different levels of care."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En effet, tant la première ligne de soins que les services durgence font face à des flux de patients conséquents, saturant fréquemment les ressources quils possèdent pour y répondre.",
+            "en": "Indeed, the first level of care equally with the emergency departments are facing major patient inflows often exceeding their available resources."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lapparition de nouvelles technologies et lentrée dans la pratique courante de la diffusion de linformation médicale se sont révélées être des précurseurs de nouvelles stratégies adaptatives, mais également de nouveaux défis quotidiens.",
+            "en": "Technological advances in healthcare and spreading of medical information reveal themselves as precursors of new adaptive strategies and daily challenges."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La création dune application interactive permettant lauto-triage du patient vers la ligne de soins la plus appropriée fait intervenir ces différents concepts.",
+            "en": "The creation of an interactive app for patients self-triage through the different levels of care involves those different concepts."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons donc développé une plateforme interactive, lapplication ODISSEE (Outil Décisionnel et Informatif des Structures de Soins Efficientes Existantes), permettant au patient dautoévaluer la gravité de son problème et de bénéficier dun conseil avisé sur le niveau de soins à envisager.",
+            "en": "We created a new interactive platform, the ODISSEE mobile application (Outil Décisionnel et Informatif des Structures de Soins Efficientes Existantes), to allow patient's self-triage to the best level of care."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les protocoles utilisés sont directement issus dun outil créé précédemment dans notre institution et ayant fait ses preuves durant 5 années dutilisation, loutil SALOMON (Système Algorithmique Liégeois dOrientation pour la Médecine Omnipraticienne Nocturne).",
+            "en": "The protocols used were directly based on a previously validated tool with a 5-year experience in our institution, the SALOMON algorithm (Système Algorithmique Liégeois d'Orientation pour la Médecine Omnipraticienne Nocturne)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La création dun système interactif dauto-triage du patient le guidant vers le niveau de soins le plus approprié pourrait être une méthode prometteuse pour la régulation de la demande de soins non planifiés.",
+            "en": "Establishment of interactive self-triage platform to guide patients to the best level of care could potentially be a promising tool to improve the regulation of unscheduled urgent care."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Transplantation utérine : défis cliniques et éthiques en Suisse.",
+            "en": "[Uterine transplant: Clinical and ethical challenges in Switzerland]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La transplantation utérine est une possibilité nouvelle offerte aux femmes présentant une infertilité utérine absolue.",
+            "en": "Uterine transplant is a novel treatment option for women with absolute uterine infertility."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Environ 60 greffes utérines ont été réalisées dans le monde.",
+            "en": "Sixty uterine transplants have been performed worldwide to date."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La première naissance a été obtenue en 2014 et depuis 20 enfants ont vu le jour.",
+            "en": "The first live birth happened in 2014 and since then 20 children have been born after this procedure."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La procédure comporte plusieurs défis: Le donateur est généralement une femme vivante.",
+            "en": "The procedure has several challenges: The donor is usually a woman alive."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les étapes chirurgicales sont longues et le risque de complications élevé.",
+            "en": "Surgery is long and complex for both the donor and the recipient, with a high risk of complications."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les embryos doivent être obtenus par lintermédiaire de la FIV.",
+            "en": "Embryos have to be obtained through IVF."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La transplantation utérine représente un nouvel espoir pour les femmes présentant une infertilité utérine absolue, mais une procédure expérimentale à risque élevé pour les «donneuses», les «receveuses» et les enfants obtenus soulève de nombreuses questions éthiques.",
+            "en": "Uterine transplant is a new hope for women with absolute uterine infertility but a high-risk experimental procedure for the donor, the recipient and the newborns and raises major ethical questions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Facilite laccès à des soins somatiques pour les adultes atteints de troubles mentaux sévères.",
+            "en": "[Facilitating access to somatic care for adults suffering from severe mental disabilities]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Afin daméliorer la prise en charge somatique des patients avec troubles sévères du développement intellectuel et du spectre de lautisme, un dispositif daccueil a été mis en place aux Hôpitaux universitaires de Genève (HUG).",
+            "en": "For the purpose of improving the management of somatic disorders among patients suffering from severe intellectual development and autism spectrum disorders, a specific admissions mechanism has been implemented at Geneva University Hospitals (HUG)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "LUnité de psychiatrie hospitalière adulte (UPHA), une unité dintervention complexe, collabore avec le Programme Handicap des HUG.",
+            "en": "The Adult Psychiatric Hospital Unit (UPHA), a complex intervention unit, collaborates with HUG's Disability Program."
+        }
+    },
+    {
+        "translation": {
+            "fr": "De mai 2018 à mai 2019, 29 demandes dhospitalisation pour soins ou bilans somatiques, évaluées en amont, ont été acceptées.",
+            "en": "From May 2018 to May 2019, 29 requests for hospitalizations were accepted."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces demandes provenaient surtout de médecins de cabinet privés (42 %).",
+            "en": "These requests primarily originated from private practice physicians (42 %)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un accueil rapide a été organisé en urgence ou avec un délai moyen de 13 jours.",
+            "en": "In some cases, immediate admissions were urgently organized, and in others a 13-day waiting period was imposed."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les hospitalisations ont été adaptées au patient: le plus souvent, elles ont été trop courtes (48 %), 6 hospitalisations ayant été prolongées pour une période moyenne de 103 jours.",
+            "en": "Hospitalizations were adapted to the patient: more often than not, these were short (48 %), with 6 hospitalizations extended for an average 103-day period."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un cas clinique illustre la prise en charge médicale offerte.",
+            "en": "A clinical case illustrates the healthcare management provided."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Introduction aux réseaux de symptômes en psychopathologie.",
+            "en": "[Introduction to symptom networks in psychopathology]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous présentons dans cet article les grands principes méthodologiques des réseaux de symptômes en psychopathologie.",
+            "en": "In this article, we present the main methodological principles of symptom networks in psychopathology."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ils constituent une alternative au Manuel diagnostique et statistique des troubles mentaux et des critères des domaines de recherche (RDC), mais ils ne les excluent pas.",
+            "en": "They are an alternative to the Diagnostic and Statistical Manual of Mental Disorders (DSM) and Research Domain Criteria (RDoC), but they do not exclude them."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Déterminer la dose à injecter lors des premières études cliniques menées avec un anticorps monoclonal - Pas si simple!",
+            "en": "[Determining the dose to be injected in the first clinical trials with monoclonal antibodies: not so easy!]"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les anticorps monoclonaux constituent une arme thérapeutique de plus en plus utilisée en oncologie car ils permettent de cibler très précisément les cellules cancéreuses tout en présentant lavantage dépargner les cellules saines des effets du traitement, avec, par conséquent, une réduction très importante de la toxicité.",
+            "en": "Monoclonal antibodies are a therapeutic tool frequently used in oncology, as they allow the specific targeting of molecules expressed by cancer cells and, in most cases, induce minimal toxic effects on healthy tissues."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Labsence de toxicité significative et dune relation directe entre dose et efficacité pour les anticorps rendent toutefois peu utiles les méthodes de sélection de la dose traditionnellement utilisées pour les médicaments de chimiothérapie.",
+            "en": "Because monoclonal antibodies frequently lack significant toxicity and are not associated to a direct relationship between dose and effect, the methods of clinical development traditionally used for chemotherapy agents are scarcely useful for this class of drugs."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il nexiste toutefois pas de consensus sur des paramètres alternatifs qui permettraient de sélectionner pendant les essais de phase précoce la meilleure dose de ces molécules pour le développement clinique ultérieur.",
+            "en": "In addition, no consensus exists on the definition of parameters different from toxicity that could assist the process of dose selection of monoclonal antibody in early clinical trials."
+        }
+    },
+    {
+        "translation": {
+            "fr": "HISTORIQUE",
+            "en": "BACKGROUND"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les blessures se classent parmi les dix principales causes de décès au Canada.",
+            "en": "Injuries are among the top 10 leading causes of death in Canada."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cependant, les types et les taux de blessures varient en fonction du type de milieu, rural ou urbain.",
+            "en": "However, the types and rates of injuries vary between rural versus urban settings."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les taux de blessures augmentent avec la ruralité, particulièrement les blessures liées à des collisions de véhicules motorisés.",
+            "en": "Injury rates increase with rurality, particularly those related to motor vehicle collisions."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le type de travail, un environnement dangereux et de longues distances à parcourir sont des facteurs qui contribuent aux différences entre les taux de blessures en milieu rural et ceux en milieu urbain.",
+            "en": "Factors such as type of work, hazardous environments and longer driving distances contribute to the difference in rural and urban injury rates."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il faut approfondir les analyses des blessures en fonction du type de milieu, rural et urbain, en particulier en ce qui concerne la nature et la gravité des blessures.",
+            "en": "Further examination of injuries comparing rural and urban settings with increased granularity in the nature of injuries and severity is needed."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La population de létude comprenait des dossiers du Programme canadien de notification et de prévention des blessures en milieu hospitalier (PCIU) en ligne depuis 2011 jusquen juillet 2017.",
+            "en": "The study population consisted of records from the electronic Canadian Hospitals Injury Reporting and Prevention Program (eCHIRPP) from between 2011 and July 2017."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le type de milieu (rural ou urbain) a été déterminé à partir du code postal de Postes Canada.",
+            "en": "Rural and urban status was determined based on postal codes as defined by Canada Post."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les rapports des blessures proportionnées (RPB) ont été calculés afin de comparer les taux de blessures en milieu rural et ceux en milieu urbain, par nature et par gravité de blessures et par sexe, entre autres facteurs.",
+            "en": "Proportionate injury ratios (PIRs) were calculated to compare rural and urban injury rates by nature and severity of injury and sex, among other factors."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "En milieu rural, les cas de blessures enregistrés aux urgences étaient plus susceptibles dêtre des blessures multiples (RPB = 1,66 pour 3 blessures) et des lésions par écrasement (RPB = 1,72).",
+            "en": "Rural injuries were more likely to involve multiple injuries (PIR = 1.66 for 3 injuries) and crush injuries (PIR = 1.72)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Plus modestement élevé, les RIP pour les environnements ruraux ont été observés pour les morsures danimaux (1,14), les brûlures (1,22), les blessures aux yeux (1,32), les fractures (1,20) et les lésions musculaires ou musculaires (1,11).",
+            "en": "More modestly elevated PIRs for rural settings were found for animal bites (1.14), burns (1.22), eye injuries (1.32), fractures (1.20) and muscle or soft tissue injuries (1.11)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les blessures en milieu rural étaient plus sévères, avec une probabilité plus élevée dêtre hospitalisé (1,97), et elles étaient plus susceptibles dêtre dues à une collision de véhicules motorisés (2.12.2).",
+            "en": "Injuries in rural areas were more severe, with a higher likelihood of cases being admitted to hospital (1.97), and they were more likely to be due to a motor vehicle collision (2.12)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSION",
+            "en": "CONCLUSION"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La nature des blessures en milieu rural est différente de celle en milieu urbain.",
+            "en": "The nature of injuries in rural settings differ from those in urban settings."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ceci suggère la nécessité dévaluer les efforts actuels de prévention des blessures en milieu rural dans le but de combler lécart entre les taux de blessures en milieu rural et ceux en milieu urbain.",
+            "en": "This suggests a need to evaluate current injury prevention efforts in rural settings with the aim to close the gap between rural and urban injury rates."
+        }
+    },
+    {
+        "translation": {
+            "fr": "OBJECTIF",
+            "en": "OBJECTIVE"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Avec lâge, la peau est sujette à des altérations dans son organisation, et outre le fait d'avoir des conséquences cliniques cela a un impact sur sa fonction.",
+            "en": "With increasing age, skin is subject to alterations in its organization, which impact on its function as well as having clinical consequences."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La protéomique est un outil utile pour lévaluation non ciblée, semi-quantitative, simultanée dun nombre élevé de protéines.",
+            "en": "Proteomics is a useful tool for non-targeted, semi-quantitative simultaneous investigation of high numbers of proteins."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans cette étude nous utilisons la protéomique pour caractériser et contraster les différences liées à lâge entre la peau photoexposée et la peau photoprotégée, laccent étant mis sur lépiderme, la jonction dermique-épidermique et le derme papillaire.",
+            "en": "In the current study, we utilize proteomics to characterize and contrast age-associated differences in photoexposed and photoprotected skin, with a focus on the epidermis, dermal-epidermal junction and papillary dermis."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des biopsies de peau de la fesse (photoprotégée) et de l'avant-bras (photoexposée) de volontaires sains (âgés de 18 à 30 ans ou de ≥ 65 ans) ont été sectionnées transversalement depuis la couche cornée jusquà une profondeur de 250 μm.",
+            "en": "Skin biopsies from buttock (photoprotected) and forearm (photoexposed) of healthy volunteers (aged 18-30 or ≥65 years) were transversely sectioned from the stratum corneum to a depth of 250 μm."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Suite à une électrophorèse SDS-PAGE, chaque échantillon a été segmenté avant l'analyse par chromatographie en phase liquide couplée à la spectrométrie de masse/spectrométrie de masse.",
+            "en": "Following SDS-PAGE, each sample lane was segmented prior to analysis by liquid chromatography-mass spectrometry/mass spectrometry."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une analyse des voies de signalisation a été réalisée à laide dIngenuity IPA.",
+            "en": "Pathway analysis was carried out using Ingenuity IPA."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La comparaison des protéomes de la peau des sites des fesses et de l'avant-bras a révélé des différences dans l'abondance relative de protéines.",
+            "en": "Comparison of skin proteomes at buttock and forearm sites revealed differences in relative protein abundance."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le vieillissement de la peau de l'avant-bras photoexposée montre une augmentation de 80% des protéines altérées avec lâge, contrairement à la peau des fesses photoprotégée où une réduction de 74 % des protéines altérées avec lâge a été mesurée.",
+            "en": "Ageing in skin on the photoexposed forearm resulted in 80% of the altered proteins being increased with age, in contrast to the photoprotected buttock where 74% of altered proteins with age were reduced."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Sur le plan de la fonction, les protéines altérées par lâge dans la peau de l'avant-bras photoexposée étaient associées à une structure, une énergie et un métabolisme.",
+            "en": "Functionally, age-altered proteins in the photoexposed forearm were associated with conferring structure, energy and metabolism."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Chez les fesses photoprotégées, les protéines associées à lexpression génique, à la récupération libre-radicale, à la synthèse protéique et à la dégradation protéique ont été le plus fréquemment altérées.",
+            "en": "In the photoprotected buttock, proteins associated with gene expression, free-radical scavenging, protein synthesis and protein degradation were most frequently altered."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSION",
+            "en": "CONCLUSION"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La présente étude met en évidence la nécessité de ne pas considérer la photoâge comme un vieillissement intrinsèque accéléré, mais comme un processus physiologique distinct.",
+            "en": "This study highlights the necessity of not considering photoageing as an accelerated intrinsic ageing, but as a distinct physiological process."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les reins : cibles du rechauffement climatique?",
+            "en": "[The kidneys : possible victims of global warming ?]"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au cours des dernières décennies, on observe un nombre croissant de cas dinsuffisance rénale chronique et terminale en Amérique centrale et en Asie.",
+            "en": "Over the last decades, an increasing number of cases of chronic and end-stage kidney disease has been observed in Central America and Asia."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Celle-ci touche surtout des jeunes agriculteurs sans autre facteur de risque rénal.",
+            "en": "This kidney disease mainly affects young farmers without classic renal risk factors."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La symptomatologie inclut une baisse progressive de la filtration glomérulaire, et une protéinurie minime, avec à la biopsie une néphrite tubulo-interstitielle.",
+            "en": "The clinical presentation includes a progressive decrease of the glomerular filtration rate, minimal proteinuria and the presence of tubulo-interstitial nephritis at renal biopsy."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un lien étroit avec le rechauffement climatique a été évoqué pour cette maladie nommée selon la région néphropathie mésoaméricaine, sri lankaise ou néphropathie détiologie inconnue.",
+            "en": "A close link with global warming is suspected for this disease, called (according to its location) meso-american nephropathy, Sri Lanka nephropathy or chronic kidney disease of unknown etiology."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une autre hypothèse est la consommation deau contaminée par des pesticides.",
+            "en": "Others have suggested that intake of water contaminated with pesticides may be responsible."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le but du présent article est de rassembler ces nouvelles maladies rénales.",
+            "en": "This article provides an overview of this new kidney disease."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La prévention de linsuffisance rénale aiguë pendant les périodes de forte chaleur en Suisse est également discutée.",
+            "en": "Measures to prevent acute kidney injury during heat waves in Switzerland are also discussed."
+        }
+    },
+    {
+        "translation": {
+            "fr": "OBJECTIF",
+            "en": "OBJECTIVE"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ivermectine est sûr et largement utilisé pour traiter les infections par helminthe.",
+            "en": "Ivermectin is safe and widely used for treating helminth infections."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il tue également les arthropodes qui se nourrissent de sujets traités, y compris les vecteurs du paludisme.",
+            "en": "It also kills arthropods feeding on treated subjects, including malaria vectors."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ainsi, l'administration en masse d'ivermectine en tant qu'outil supplémentaire de lutte contre le paludisme est actuellement évaluée par l'OMS.",
+            "en": "Thus, ivermectin mass drug administration as an additional tool for malaria control is being evaluated by WHO."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Comme le montrent les données in vitro, des expériences animales et des observations épidémiologiques font apparaître un effet direct de livermectine sur le niveau du foie du parasite du paludisme, cette étude a été conçue pour évaluer leffet prophylactique de livermectine sur la lutte contre le paludisme humain menée contre le Plasmodium falciparum.",
+            "en": "As in vitro data, animal experiments and epidemiological observations suggest that ivermectin has a direct effect on the liver stages of the malaria parasite, this study was designed to assess the prophylactic effect of ivermectin on Plasmodium falciparum controlled human malaria infection."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au total, 4 volontaires ont été randomisés vers le placebo et 8 volontaires ont été randomisés vers le bas pour recevoir ivermectine 0,4 mg/kg, par voie orale, une fois 2 h avant dêtre infectés expérimentalement par voie intraveineuse avec 3200 p. falciparum sporozoïtes.",
+            "en": "A total of 4 volunteers were randomised to placebo, and 8 volunteers were randomised to receive ivermectin 0.4 mg/kg, orally, once 2 h before being experimentally infected intravenously with 3200 P. falciparum sporozoites."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Toutes les analyses, sauf un, ont révélé un frottis sanguin épais entre le jour 11 et le jour 12 après linfection, et il ny avait pas deffet significatif divermectine sur la parasitémie.",
+            "en": "All but one volunteer became thick blood smear positive between day 11 and day 12 after infection, and there was no significant effect of ivermectin on parasitaemia."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSION",
+            "en": "CONCLUSION"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les syndromes de surcroissance segmentaire et les stratégies thérapeutiques.",
+            "en": "[Segmental overgrowth syndromes and therapeutic strategies]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les syndromes de surcroissance constituent un groupe important de troubles rares caractérisés par une croissance généralisée ou segmentaire excessive.",
+            "en": "Overgrowth syndromes are a large group of rare disorders characterized by generalized or segmental excessive growth."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les syndromes de surcroissance segmentaire sont principalement dus à des anomalies génétiques apparaissant durant lembryogenèse et aboutissant à un mosaïcisme.",
+            "en": "Segmental overgrowth syndromes are mainly due to genetic anomalies appearing during the embryogenesis and leading to mosaicism."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le nombre de patients atteints dun syndrome de surcroissance avec une mutation identifiée a fortement augmenté grâce à des avancées récentes en génétique moléculaire, en utilisant le séquençage de nouvelle génération de génération (NGS).",
+            "en": "The numbers of patients with segmental overgrowth with an identified molecular defect has dramatically increased following the recent advances in molecular genetic using next-generation sequencing approaches."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article détaille les différents syndromes de surcroissance segmentaire ainsi que les voies moléculaires impliquées et les options thérapeutiques envisageables.",
+            "en": "This review discusses various syndromes and pathways involved in segmental overgrowth syndromes and presents actual and future therapeutic strategies."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Prise en charge de lenfant autiste.",
+            "en": "[Managing an autistic child]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Prise en charge de lenfant autiste.",
+            "en": "Managing an autistic child."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Afin daider à lancer une intervention précoce, le médecin traitant doit être informé des connaissances récentes des aspects cliniques du développement de lenfant, des particularités liées au trouble de lenfant, mais également des bilans et types dinterventions préconisées.",
+            "en": "To help starting early intervention, general practitioners have to be aware of the recent knowledge in clinical aspects of social and communication abilities development but also in the different evaluations and therapeutic interventions which are recommended."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le médecin traitant et le pédiatre restent, tout au long de lévolution de lenfant, en interaction avec les parents et les équipes spécialisées, des partenaires essentiels de cette prise en charge.",
+            "en": "General practitioners and pediatricians will keep up following the child evolution as part of the childcare team with parents and specialized professionals."
+        }
+    },
+    {
+        "translation": {
+            "fr": "INTRODUCTION",
+            "en": "INTRODUCTION"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La testostérone et l'ocytocine sont des mécanismes psychobiologiques qui sont interdépendants de la qualité de la relation entre les parents, ainsi que de la quantité et la qualité des comportements parentaux, et ainsi affectent les résultats de l'enfant.",
+            "en": "Testosterone and oxytocin are psychobiological mechanisms that interrelate with relationship quality between parents and the quantity and quality of parenting behaviors, thereby affecting child outcomes."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Leur production conjointe fondée sur la dynamique familiale a rarement été testée, particulièrement interculturelle.",
+            "en": "Their joint production based on family dynamics has rarely been tested, particularly cross-culturally."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous avons investigué la fonction familiale, la testostérone et l'ocytocine chez les mères et les pères d'une micro société de pêcheurs-agriculteurs en République du Congo.",
+            "en": "We explored family function and salivary testosterone and oxytocin in mothers and fathers in a small-scale, fishing-farming society in Republic of the Congo."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les pères se sont eux-mêmes classés dans trois domaines de la vie familiale relatif au modèle culturel local de la paternité.",
+            "en": "Fathers ranked one another in three domains of family life pertaining to the local cultural model of fatherhood."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les pères qui étaient considérés comme de meilleurs pourvoyeurs avaient relativement moins d'ocytocine et plus de testostérone que les hommes considérés comme des moins bons pourvoyeurs, ces derniers ayant des taux de testostérone plus bas et des taux d'ocytocine plus haut.",
+            "en": "Fathers who were viewed as better providers had relatively lower oxytocin and higher testosterone than men seen as poorer providers, who had lower testosterone and higher oxytocin."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les pères présentaient également des taux d'ocytocine et d'ocytocine plus élevés et plus bas dans les mariages plus conflictuels, alors que ceux engagés dans des mariages moins conflictuels présentaient une testostérone réduite et une ocytocine plus élevée.",
+            "en": "Fathers also had higher testosterone and lower oxytocin in marriages with more conflict, while those who had less marital conflict had reduced testosterone and higher oxytocin."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En revanche, les mères dans les mariages en conflit ont montré les profils opposés de testostérone relativement faible et d'ocytocine plus élevée.",
+            "en": "In contrast, mothers in conflicted marriages showed the opposite profiles of relatively lower testosterone and higher oxytocin."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les mères avaient des taux d'ocytocine et de testostérone plus élevés si les pères n'étaient pas impliqués directement dans les soins, tandis que les mères présentaient un schéma opposé pour les deux hormones si les pères étaient considérés comme impliqués dans les soins directs.",
+            "en": "Mothers had higher oxytocin and lower testosterone if fathers were uninvolved as direct caregivers, while mothers showed an opposing pattern for the two hormones if fathers were seen as involved with direct care."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSIONS",
+            "en": "CONCLUSIONS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ces résultats ont jeté un nouvel éclairage sur les profils doubles de l'ocytocine et de la testostérone chez les parents, dans un nouveau contexte de micro société et ont mis en évidence la flexibilité de la psychobiologie parentale humaine lorsque les rôles et les fonctions des pères au sein des familles varient d'une culture à l'autre.",
+            "en": "These results shed new light on parents' dual oxytocin and testosterone profiles in a small-scale society setting and highlight the flexibility of human parental psychobiology when fathers' roles and functions within families differ across cultures."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Comparaison entre la prise alimentaire limitée dans le temps et le jeûne islamique : étude de portée.",
+            "en": "Comparison of time-restricted feeding and Islamic fasting: a scoping review."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La recherche sur les bienfaits du jeûne pour la santé se développe ; ceci inclut la prise alimentaire limitée dans le temps et le jeûne islamique.",
+            "en": "Research on the health benefits of fasting is growing; this includes time-restricted feeding and Islamic fasting."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectifs",
+            "en": "Aims"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le présent article a pour objectif de passer en revue et de souligner les similitudes et les différences entre la prise alimentaire limitée dans le temps et le jeûne islamique pendant le Ramadan.",
+            "en": "This article aims to review and highlight the similarities and differences between time-restricted feeding and Islamic fasting during Ramadan."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une étude de portée a été réalisée afin de déterminer les articles pertinents qui répondaient à la question de recherche : quelles sont les similitudes et les différences entre les caractéristiques de la prise alimentaire limitée dans le temps et du jeûne islamique?",
+            "en": "A scoping review was undertaken to identify relevant articles that answered the research question: what are the similarities and differences in characteristics of time-restricted feeding and Islamic fasting?"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des recherches ont été réalisées sur MEDLINE/PubMed en utilisant les termes : prise alimentaire limitée dans le temps et poids.",
+            "en": "MEDLINE/PubMed was searched using the terms: time-restricted feeding, and weight."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les critères d'inclusion étaient les suivants : articles de recherche originaux et analyses, rédigés en anglais et publiés entre 2000 et 2017.",
+            "en": "Inclusion criteria were: original research and review articles; written in English; and published between the years 2000 and 2017."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au total, 25 articles qui ont répondu à la question de recherche ont été inclus dans lanalyse: 15 articles de recherche originaux et 10 analyses.",
+            "en": "A total of 25 articles that answered the research question were included in the review: 15 original research papers and 10 reviews."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les résultats suggèrent que le jeûne du Ramadan est une forme dalimentation limitée dans le temps, en raison du moment où la consommation est interdite.",
+            "en": "The findings suggest that Ramadan fasting is a form of time-restricted feeding in the contemporary context because of the period when eating is not allowed."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La durée du jeûne signalée dans les cas d'alimentation à durée limitée variait de 4 à 24 heures, ce qui est plus long que dans le cas du jeûne islamique, qui dure entre 8 et 20 heures.",
+            "en": "The fasting duration reported in time-restricted feeding ranged from 4 to 24 hours, which is longer than that of Islamic fasting which is between 8 and 20 hours."
+        }
+    },
+    {
+        "translation": {
+            "fr": "On a constaté que la prise alimentaire limitée dans le temps et le jeûne islamique ont des effets positifs sur la santé, y compris la perte de poids.",
+            "en": "Both time-restricted feeding and Islamic fasting have been found to have positive health effects, including weight reduction."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusion",
+            "en": "Conclusion"
+        }
+    },
+    {
+        "translation": {
+            "fr": "L'alimentation limitée dans le temps et le jeûne islamique présentent de nombreuses caractéristiques similaires ainsi quet des effets positifs sur la santé constatés.",
+            "en": "Time-restricted feeding and Islamic fasting have many similar characteristics and reported positive health effects."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Pratiques de lutte contre les infections dans les banques de sang du Pakistan.",
+            "en": "Infection control practices in blood banks of Pakistan."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectifs",
+            "en": "Aims"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La présente étude visait à évaluer les pratiques de lutte anti-infectieuse eu égard à la sécurité des approvisionnements en sang, la sécurité du personnel et lélimination des déchets dans les banques de sang de Karachi au Pakistan.",
+            "en": "This study aimed to evaluate infection control practices with reference to safe blood supply, staff safety and waste disposal practices in blood banks of Karachi, Pakistan."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Étude transversale menée sous forme de questionnaire.",
+            "en": "This was a cross-sectional study."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les pratiques de lutte contre les infections de toutes les banques de sang en exploitation à Karachi ont été déterminées au moyen dun questionnaire structuré suivi dune intervention éducative.",
+            "en": "Infection control practices of all blood banks working in Karachi were determined through a structured questionnaire followed by an educational intervention."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les scores moyens pour lensemble des pratiques de lutte contre les infections et les pratiques spécifiques concernant la sécurité des approvisionnements en sang, la sécurité du personnel et lélimination des déchets ont été calculés et comparés à différents facteurs au moyen doutils statistiques.",
+            "en": "Mean scores for overall infection control practices and specific practices regarding safe blood supply, staff safety and waste disposal were calculated and compared with different factors using statistical tools."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les scores de sécurité des patients de 49 (92,5 %) banques de sang se situaient dans la plage satisfaisante, mais les scores concernant la sécurité du personnel et lélimination des déchets de seulement 26 (49,1 %) et 4 (7,5 %) banques de sang étaient satisfaisantes.",
+            "en": "Patient safety scores of 49 (92.5%) blood banks were within the satisfactory range but staff safety and waste disposal scores of only 26 (49.1%) and 4 (7.5%) blood banks were satisfactory."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des scores significativement plus bas pour le contrôle des infections (IC) ont été observés pour les banques de sang autonomes et ceux en exploitation en labsence dun hématologue (valeur p < 0,001).",
+            "en": "Significantly lower infection control (IC) scores were observed for stand-alone blood banks and those working in the absence of a haematologist (P-value < 0.001)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La disponibilité de modes opératoires normalisés écrits et de lignes directrices sur la lutte contre les infections était corrélée positivement (valeur p < 0,001) avec les scores moyens de lutte contre les infections.",
+            "en": "Availability of written standard operating procedures (SOPs) and IC guidelines correlated positively (P-value < 0.001) with mean IC scores."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusions",
+            "en": "Conclusions"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les banques de sang à Karachi nont pas mis en place de normes sur la lutte contre les infections, particulièrement en ce qui concerne la sécurité du personnel, la gestion et lélimination des déchets.",
+            "en": "Blood banks in Karachi lack implementation of IC standards particularly with reference to staff safety and waste management and disposal."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lautorité de transfusion sanguine de Sind devrait prendre des mesures pour accroître la conformité de la lutte contre les infections dans les banques de sang.",
+            "en": "Sindh blood transfusion authority (SBTA) should take measures to increase IC compliance within blood banks."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Définition et rôles du microbiote intestinal.",
+            "en": "[Definition and roles of the gut microbiota]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Définition et rôles du microbiote intestinal.",
+            "en": "Definition and roles of the gut microbiota."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le microbiote intestinal est lensemble des micro-organismes qui colonisent notre tube digestif.",
+            "en": "The gut microbiota is the set of microorganisms that colonize our digestive tract."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un être humain héberge 1013 bactéries dans son tractus digestif, soit autant que de cellules humaines dans son corps.",
+            "en": "A human being hosts 1013 bacteria in his gastro-intestinal tract, as much as human cells in his body."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le microbiote contient des bactéries mais aussi des champignons, des virus et des protistes.",
+            "en": "The microbiota contains bacteria but also fungi, viruses and protists."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le microbiote sinstalle progressivement après la naissance et est considéré adulte vers lâge de 3 ans.",
+            "en": "The microbiota settles gradually after birth is considered adult around the age of 3 years."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le microbiote peut être modulé par de nombreux facteurs environnementaux et par la génétique de lhôte.",
+            "en": "The microbiota can be modulated by many environmental factors and by the genetics of the host."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un microbiote déséquilibré (dysbiote) est observé dans de nombreuses maladies humaines et joue un rôle dans beaucoup dentre eux, avec cependant un poids inégalé dune maladie à lautre.",
+            "en": "An unbalanced microbiota (dysbiotic) is observed in many human diseases and plays a role in many of them, with however unequal weight from one disease to another."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le microbiote pourrait, dans un avenir proche, servir de biomarqueur diagnostique et pronostique.",
+            "en": "The microbiota could, in the near future, serve as a diagnostic and prognostic biomarker."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il est déjà considéré comme un outil ou une cible thérapeutique potentielle.",
+            "en": "It is already considered a potential therapeutic tool or target."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les allergies aux pollens représentent une cause majeure de rhinite allergique saisonnière en Amérique du Nord.",
+            "en": "Pollen allergies are a major source of seasonal allergic rhinitis in North America."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Ce type de rhinite touche 17 % des adultes au Québec, une augmentation importante dans les 30 dernières années.",
+            "en": "This type of rhinitis affects 17% of adults in Quebec, a marked increase in the last 30 years."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les pollens de lherbe à poux (Ambrosia artemisiifolia L.) sont responsables de 50 à 90 % des rhinites.",
+            "en": "Ragweed (Ambrosia artemisiifolia L.) pollens are responsible for 50% to 90% of rhinitis cases."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les changements climatiques ont joué un rôle significatif dans laugmentation de la prévalence de la rhinite allergique saisonnière dans les dernières décennies.",
+            "en": "Climate change has played a significant role in the increased prevalence of seasonal allergic rhinitis over the last few decades."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En 2015, le gouvernement du Québec a mis en place une stratégie pour sattaquer à ce problème, la Stratégie québécoise de réduction de lherbe à poux et des autres pollens allergènes.",
+            "en": "In 2015, the Quebec government put in place a strategy to tackle this problem, the Stratégie québécoise de réduction de l'herbe à poux et des autres pollens allergènes [Quebec strategy to reduce ragweed and other allergenic pollens]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Basée sur des données probantes, la Stratégie privilégie la concertation entre les parties prenantes et lintégration de mesures de contrôle dans les pratiques dentretien des municipalités et autres grands propriétaires fonciers, publics comme privés.",
+            "en": "Based on solid evidence, the Strategy advocates for co-operation between stakeholders and the integration of control measures into the maintenance practices of municipalities and other large public and private landowners."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article présente les données scientifiques qui appuient la Stratégie ainsi que les premiers succès des interventions menées dans ce cadre.",
+            "en": "This article presents the scientific data underpinning the Strategy and initial successes of the action taken under the Strategy."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Points Saillants",
+            "en": "Highlights"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les changements climatiques augmentent les quantités et le potentiel allergène du pollen de lherbe à poux (ambroisie).",
+            "en": "Climate change increases the quantities and allergenic potential of ragweed pollen."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La rhinite allergique saisonnière causée par ces pollens a augmenté significativement en Amérique du Nord.",
+            "en": " Seasonal allergic rhinitis caused by these pollens has increased significantly in North America."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des moyens de contrôle environnemental simples peuvent diminuer cliniquement limpact du pollen de lherbe à poux (ambroisie).",
+            "en": " Simple environmental control methods can clinically decrease the impact of ragweed pollen."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une politique coordonnée qui inclut ces mesures de contrôle dans les pratiques de conservation des fonds des municipalités est mise en place au Québec.",
+            "en": "A coordinated policy that incorporates these control measures in municipalities’ groundskeeping practices is being implemented in Quebec."
+        }
+    },
+    {
+        "translation": {
+            "fr": "INTRODUCTION",
+            "en": "INTRODUCTION"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La majorité des études sur lexposition à la fumée du tabac et la qualité du sommeil se fondent sur le tabagisme autodéclaré, ce qui peut entraîner des erreurs de classification de lexposition et des biais liés à lautodéclaration.",
+            "en": "A majority of studies on tobacco smoke exposure and sleep quality have relied on self-reported smoking, resulting in potential exposure misclassification and biases related to self-report."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lobjectif de cette étude était dexplorer les associations entre la cotinine urinaire, marqueur biologique de lexposition à la fumée de tabac, et des mesures de la qualité du sommeil, y compris la durée du sommeil, la continuité ou lefficacité du sommeil, la satisfaction et la vivacité du sommeil pendant les heures de sommeil normales.",
+            "en": "The objective of this study was to investigate associations between urinary cotinine, a biological marker of tobacco smoke exposure, and sleep quality measures, including sleep duration, sleep continuity or efficiency, sleep satisfaction and alertness during normal waking hours."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "À laide des données dun échantillon national de 10806 adultes (âgés de 18 à 79 ans) tiré de lEnquête canadienne sur les mesures de la santé (2007-2013), nous avons effectué des analyses de régression logistique binaire pour estimer les associations entre concentration de cotinine urinaire et mesures de la qualité du sommeil, en tenant compte des facteurs de confusion éventuels.",
+            "en": "Using data on a national sample of 10 806 adults (aged 18-79 years) from the Canadian Health Measures Survey (2007-2013), we performed binary logistic regression analyses to estimate associations between urinary cotinine concentrations and sleep quality measures, while controlling for potential confounders."
+        }
+    },
+    {
+        "translation": {
+            "fr": "De plus, nous avons effectué une régression logistique ordinale pour évaluer les associations entre concentration urinaire de cotinine et présence dun nombre plus élevé de troubles du sommeil.",
+            "en": "Additionally, we performed ordinal logistic regression to assess the association between urinary cotinine concentrations and increased number of sleep problems."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Dans lensemble, 28,7 % des répondants à lenquête ciblant les adultes canadiens présentaient des concentrations de cotinine urinaire supérieures à la limite de détection, et la prévalence de chaque trouble du sommeil variait entre 5,5 % et 35,6 %.",
+            "en": "Overall, 28.7% of adult Canadian survey respondents had urinary cotinine concentrations above the limit of detection (LOD), nd the prevalence of each sleep problem ranged from 5.5% to 35.6%."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Une concentration élevée de cotinine dans lurine (4e quartile par rapport à une concentration inférieure à la limite de détection) était associée à une probabilité significativement plus élevée davoir un temps de sommeil trop court ou trop long (RC = 1,41; IC à 95 % : 1,02 à 1,95; tendance p = 0,021), davoir de la difficulté à sendormir ou à rester endormi (RC = 1,71; IC à 95 % : 1,28 à 2,27; tendance p = 0,003), de ressentir une insatisfaction à légard du sommeil (RC = 1,87; IC à 95 % : 1,21 à 2,89; tendance p = 0,011) et de présenter un nombre plus élevé de troubles du sommeil (RC = 1,64; IC à 95 % : 1,19 à 2,26; tendance p = 0,001).",
+            "en": "Elevated urinary cotinine concentrations (quartile 4 vs. <LOD) were associated with significantly higher odds of short or long sleep duration (OR = 1.41; 95% CI: 1.02-1.95; p-trend = .021), trouble falling or staying asleep (OR = 1.71; 95% CI: 1.28-2.27; p-trend = .003), sleep dissatisfaction (OR = 1.87; 95% CI: 1.21-2.89; p-trend = .011), and increased number of sleep problems (OR = 1.64; 95% CI: 1.19-2.26; p-trend = .001)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les relations observées étaient plus marquées chez les femmes que chez les hommes.",
+            "en": "Stronger associations were observed among females compared to males."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSION",
+            "en": "CONCLUSION"
+        }
+    },
+    {
+        "translation": {
+            "fr": "À laide dun marqueur biologique de lexposition à la fumée du tabac, notre étude contribue à la littérature sur les expositions environnementales toxiques sur la qualité du sommeil en appuyant une association entre lexposition à la fumée du tabac et une mauvaise qualité du sommeil.",
+            "en": "Using a biological marker of tobacco smoke exposure, our study contributes to the body of literature of toxic environmental exposures on sleep quality by supporting an association between tobacco smoke exposure and poorer sleep quality."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Pour tenir compte des limites inhérentes à la nature transversale du plan détude et mieux évaluer les effets sur le long terme de lexposition à la fumée de tabac sur la qualité du sommeil, il est nécessaire de réaliser des études longitudinales.",
+            "en": "To address the limitations of a cross-sectional study design and to better assess the temporality of tobacco smoke exposure and sleep quality, longitudinal studies are recommended."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Points Saillants",
+            "en": "Highlights"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Plus du quart des participants à létude présentaient des concentrations détectables de cotinine urinaire, ce qui indique quune forte proportion dadultes canadiens subirait une exposition active ou passive à la fumée du tabac.",
+            "en": "Over a quarter of study participants had detectable urinary cotinine levels, indicating that a large proportion of Canadian adults are likely exposed to tobacco smoke actively or passively."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Un sommeil de mauvaise qualité était un problème fréquemment signalé, près du tiers des répondants adultes ne bénéficiant pas du nombre dheures de sommeil recommandées.",
+            "en": "Poor sleep quality is a commonly reported problem, with approximately a third of adult survey respondents not meeting the recommended sleep duration guidelines."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des taux élevés de cotinine urinaire sont associés à des probabilités plus élevées davoir un temps de sommeil trop court ou trop long, davoir de la difficulté à sendormir ou à rester endormi, de ressentir une insatisfaction à légard du sommeil et de présenter davantage de troubles du sommeil.",
+            "en": "Elevated levels of urinary cotinine are associated with higher odds of short or long sleep duration, trouble falling or staying asleep, sleep dissatisfaction and overall increased sleep problems."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les associations entre laugmentation des taux de cotinine urinaire et une mauvaise qualité du sommeil étaient plus marquées chez les femmes que chez les hommes.",
+            "en": "The associations between increased urinary cotinine levels and poor sleep quality were stronger in females compared to males."
+        }
+    },
+    {
+        "translation": {
+            "fr": "séroprévalence de la toxoplasmose chez les femmes enceintes au Bénin : méta-analyse et méta-régression.",
+            "en": "[Seroprevalence of Toxoplasmosis among Pregnant Women in Benin: Meta-Analysis and Meta-Regression]."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Afin dévaluer le niveau de linfection toxoplasmique chez les femmes enceintes au Bénin, nous avons effectué une méta-analyse selon le protocole PRISMA.",
+            "en": "To assess the seroprevalence of toxoplasmosis among pregnant women in Benin, we conducted a meta-analysis using the PRISMA criteria."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Étaient éligibles tous les articles de recherche publiés entre 1990 et 2018 sur la toxoplasmose chez les femmes enceintes en consultation prénatale en Bénin.",
+            "en": "Al research published between 1990 and 2018 on toxoplasmosis among pregnant women Benin were eligible."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Au total, cinq bases de données ont été investiguées et les données extraites ont été sujettes à une méta-analyse selon la méthode R 3.1 à laide du modèle à effet aléatoire et du modèle à effet fixe.",
+            "en": "A total of five databases were investigated, and the extracted data were subjected to a meta-analysis under R 3.1 using both random effect model and fixed effect model."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La séroprévalence de la toxoplasmose chez la femme enceinte était de 47 % (IC 95 % : 40–53) pour les IgG et de 2 % (IC 95 % : 1–3) pour les IgM spécifiques.",
+            "en": "The overall prevalence of toxoplasma-specific IgG among pregnant women was 47% (CI 95%: 40-53) and that of specific IgM was 2% (CI 95%: 1-3)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le taux d'infection en milieu urbain (52 %) était significativement plus élevé qu'en milieu rural (33 %).",
+            "en": "The infection rate in urban areas (52%) was significantly higher than in rural areas (33%)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les deux principaux facteurs de risque identifiés par les différentes études éligibles étaient lâge des femmes enceintes et la consommation de légumes crus.",
+            "en": "The two main risk factors identified by the various eligible studies were the age of the pregnant women and the consumption of raw vegetables."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Nous montrons ainsi que la toxoplasmose est endémique chez les femmes enceintes au Bénin, impliquant que des mesures de prévention primaire soient mises en place par les autorités compétentes pour contrôler cette infection.",
+            "en": "We show that toxoplasmosis is endemic in pregnant women in Benin, implying that primary prevention measures must be put in place by the competent authorities to control this infection."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La présente étude visait à déterminer leffet dune injection unique de paracétamol sur la réponse de la concentration alvéolaire minimale (MAC) de sévoflurane à une stimulation mécanique nocive.",
+            "en": "This study aimed to determine the effect of a single injection of paracetamol on the sevoflurane minimum alveolar concentration (MAC) response to noxious mechanical stimulation."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Sept beagles adultes sains ont participé à une étude expérimentale prospective, randomisée, aveuglée, transversale.",
+            "en": "Seven healthy adult beagles were enrolled in a prospective, randomized, blinded, crossover experimental study."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lanesthésie fut induite avec du propofol [11,6 ± 2,4 mg/kg de poids corporel (BW) ] et maintenue avec du sévoflurane.",
+            "en": "Anesthesia was induced with propofol [11.6 ± 2.4 mg/kg body weight (BW)] and maintained with sevoflurane."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La valeur de MAC a été déterminée avant (MAC-1) et après (MAC-2) le traitement avec 15 mg/kg de paracétamol ou de saline par voie intraveineuse (IV) sur 15 minutes.",
+            "en": "The MAC was determined before (MAC-1) and after (MAC-2) treatment with 15 mg/kg BW of intravenous (IV) paracetamol or saline over 15 minutes."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Des échantillons pour déterminer le paracétamol plasmatique furent prélevés immédiatement après ladministration IV du traitement et suivant la détermination de MAC-2 (123 ± 27 minutes après le début de ladministration de paracétamol).",
+            "en": "Samples for plasma paracetamol determination were collected immediately after IV treatment administration and following MAC-2 determination (123 ± 27 minutes after starting paracetamol administration)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La valeur de MAC-1 était similaire entre les traitements (1,7 % ± 0,4 %).",
+            "en": "The MAC-1 was similar between treatments (1.7% ± 0.4%)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Il ny avait pas de différence entre les groupes témoins et paracétamol à MAC-2 (2,0 % ± 0,4 % et 1,7 % ± 0,5 %, respectivement; P = 0,285).",
+            "en": "There were no differences between control and paracetamol groups at MAC-2 (2.0% ± 0.4% and 1.7% ± 0.5%, respectively; P = 0.285)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les concentrations plasmatiques de paracétamol après ladministration de paracétamol étaient de 34,5 ± 9,9 μg/mL, et diminuaient à la fin de la procédure (8,5 ± 4,2 μg/mL).",
+            "en": "Paracetamol plasma concentrations after paracetamol administration were 34.5 ± 9.9 μg/mL, decreasing at the end of the procedure (8.5 ± 4.2 μg/mL)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En conclusion, 15 mg/kg de paracétamol IV p.c. na pas diminué significativement la MAC du sévoflurane chez les chiens sains.",
+            "en": "In conclusion, 15 mg/kg BW of IV paracetamol did not significantly reduce sevoflurane MAC in healthy dogs."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Contexte",
+            "en": "Background"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Léducation est lune des composantes clés des cliniques multidisciplinaires dIRC; cependant, les connaissances sur linsuffisance rénale chez les patients suivis dans ces cliniques ne sont pas mesurées systématiquement.",
+            "en": "One of the key components of multidisciplinary CKD clinics is education; however, kidney disease knowledge among patients followed in these clinics is not routinely measured."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Objectif",
+            "en": "Objective"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Lobjectif de cette étude était de déterminer les connaissances objectives et perçues quant à linsuffisance rénale et les caractéristiques des patients associées aux connaissances chez les patients suivis dans une clinique de soins multiples.",
+            "en": "The aim of this study was to determine objective and perceived kidney disease knowledge and patient characteristics associated with knowledge among patients followed in a multi-care kidney clinic."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Type détude",
+            "en": "Design"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Étude transversale menée sous forme de questionnaire.",
+            "en": "This is a cross-sectional survey study."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cadre",
+            "en": "Setting"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La présente étude a été menée dans une clinique de soins multiples en rénal, en Ontario, Canada.",
+            "en": "This study was conducted in a multi-care kidney clinic in Ontario, Canada."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Patients",
+            "en": "Patients"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les patients ne parlant pas anglais, ne pouvant lire en raison dun important trouble de la vision ou ayant des antécédents de démence ou dun important déficit cognitif ont été exclus.",
+            "en": "Patients who did not speak English, who were unable to read due to significant vision impairment, or who had a known history of dementia or significant cognitive impairment were excluded."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Mesures",
+            "en": "Measurements"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les connaissances perçues quant à linsuffisance rénale ont été évaluées à laide dun questionnaire préalablement validé composé de neuf questions (PiKS).",
+            "en": "Perceived kidney disease knowledge was evaluated using a previously validated 9-item survey (PiKS)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Méthodes",
+            "en": "Methods"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Le lien entre les caractéristiques du patient et les connaissances perçues et objectives en matière dinsuffisance rénale a été déterminé à laide dune régression linéaire.",
+            "en": "The association between patient characteristics and perceived and objective kidney disease knowledge was determined using linear regression."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Résultats",
+            "en": "Results"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les scores médians (EI) obtenus aux tests de connaissances objectives et perçues étaient respectivement de 19 sur 27 (16-21) et de 2,9 sur 4 (2,4-3,2).",
+            "en": "The median (IQR) objective and perceived knowledge survey scores were 19 out of 27 (16, 21) and 2.9 out of 4 (2.4, 3.2), respectively."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Seuls 25 % des patients ont répondu correctement que lIRC peut se manifester en absence de symptômes, et 64 % des patients savaient que les reins produisent lurine.",
+            "en": "Only 25% of patients answered correctly that CKD can be associated with no symptoms, and 64% of patients identified correctly that the kidneys make urine."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Plus de 60 % des patients avaient limpression de ne rien connaître ou den savoir très peu sur les médicaments qui aident ou qui nuisent aux reins.",
+            "en": "More than 60% of patients perceived themselves to know nothing or only a little about medications that help or hurt the kidney."
+        }
+    },
+    {
+        "translation": {
+            "fr": "De faibles connaissances objectives et perçues ont été indépendamment associées à un âge plus avancé; ce qui na pas été le cas pour le sexe, le revenu et le niveau de scolarité.",
+            "en": "Older age was independently associated with lower perceived and objective knowledge, but sex, income, and educational attainment were not."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Limites",
+            "en": "Limitations"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Létude a été menée dans un seul centre.",
+            "en": "This is a single-center study."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Conclusions",
+            "en": "Conclusions"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Malgré les soins à forte intensité de ressources, la connaissance de lIRC des patients suivis dans une clinique multidisciplinaire sest révélée modeste.",
+            "en": "Despite resource-intensive care, CKD knowledge of patients followed in a multidisciplinary clinic was found to be modest."
+        }
+    },
+    {
+        "translation": {
+            "fr": "La possibilité daméliorer les stratégies éducatives peut-elle améliorer les connaissances et si une meilleure connaissance améliore les résultats des patients nécessite une étude plus poussée.",
+            "en": "Whether enhanced educational strategies can improve knowledge and whether increasing knowledge improves patient outcomes warrants further study."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Durant la dernière décennie, des études ont transformé notre vue simpliste des microbes, ceux-ci nayant par le passé à nos yeux quun rôle pathogène dans les maladies, en une compréhension plus exhaustive de leur rôle critique dans le maintien de la bonne santé humaine.",
+            "en": "Studies over the last decade have transformed our previously simplistic view of microbes, having only a pathogenic role in disease to a more robust understanding that they are critical for maintaining human health."
+        }
+    },
+    {
+        "translation": {
+            "fr": "En effet, notre microbiote-la collection dorganismes commensaux qui vivent dans et sur chacun dentre nous-contribue à presque toutes les facettes de la physiologie de lhôte, de lontogenie du système immunitaire à la fonction neurologique au métabolisme.",
+            "en": "Indeed, our microbiota-the collection of commensal organisms that live in and on each of us-contributes to nearly every facet of host physiology, from ontogeny of the immune system to neurological function to metabolism."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Bien que les détails spécifiques des interactions entre le microbiote et son hôte soient encore à élucider pour la plupart des maladies, les rapprochements déchantillons cliniques avec des modèles animaux de maladies ont apporté des éclaircissements clés.",
+            "en": "Although the specific details of these host-microbe interactions are still being elucidated for most diseases, the coupling of clinical samples with animal models of disease have provided key insights."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Cet article présente un exposé général de ce quest le microbiote, met en lumière quelques exemples sur la manière dont le microbiote a un impact sur certaines maladies du système nerveux central, et fournit une perspective sur la façon dont ces découvertes pourraient se traduire cliniquement.",
+            "en": "This review provides some general background on the microbiota, highlights a few examples of how the microbiota influences diseases of the central nervous system, and provides a perspective for how these findings may be clinically translatable."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONTEXTE",
+            "en": "CONTEXT"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Bien quil soit sûr et efficace, le DIU au cuivre est sous-utilisé en Afrique subsaharienne, faute, en partie, de prestataires formés.",
+            "en": "The copper IUD is safe and effective, but underutilized in Sub-Saharan Africa, in part because of a lack of trained providers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "MÉTHODOLOGIE:",
+            "en": "METHODS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les données ont été tirées des enquêtes de référence et des dossiers détude de 535 femmes sexuellement actives âgées de 18 à 45 ans ayant utilisé un DIU au cuivre, tout en participant à un essai clinique de prévention du VIH réalisé entre août 2012 et juin 2015 au Malawi, en Afrique du Sud, en Ouganda et au Zimbabwe.",
+            "en": "Data were drawn from baseline surveys and study charts of 535 sexually active women aged 18-45 who used a copper IUD while participating in an HIV-prevention clinical trial conducted from August 2012 through June 2015 in Malawi, South Africa, Uganda and Zimbabwe."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les DIU avaient été posés par les médecins, infirmières et sages-femmes de l'étude, formés dans le cadre de l'essai, ainsi que par des prestataires locaux extérieurs à l'étude.",
+            "en": "IUDs were inserted by study physicians, nurses and midwives trained as part of the trial, and by local nonstudy providers."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les tests de chi-carré et les tests exacts de Fisher ont été utilisés pour comparer les expériences des femmes concernant des événements négatifs, comme les saignements irréguliers, la douleur pelvienne ou lexpulsion du type de prestataire.",
+            "en": "Chi-square and Fisher's exact tests were used to compare women's experiences of adverse events-such as irregular bleeding, pelvic pain or device expulsion-by provider type."
+        }
+    },
+    {
+        "translation": {
+            "fr": "RÉSULTATIS:",
+            "en": "RESULTS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "La moitié (54 %) des femmes ont signalé avoir subi un effet indésirable; les plus fréquentes étaient des saignements irréguliers et des douleurs pelviennes (45 % et 25 %, respectivement).",
+            "en": "Half (54%) of women reported experiencing an adverse event; the most common were irregular bleeding and pelvic pain (45% and 25%, respectively)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les taux d'expulsion sont comparables pour les infirmières de l'étude et les prestataires extérieurs (12,3 et 11,9 pour 100 femmes-années, respectivement), mais il est moindre pour les médecins de l'étude (7,3 pour 100 femmes-années).",
+            "en": "Expulsion rates were comparable for study nurses and nonstudy providers (12.3 and 11.9 per 100 woman-years, respectively), but lower for study physicians (7.3 per 100 woman-years)."
+        }
+    },
+    {
+        "translation": {
+            "fr": "CONCLUSIONS",
+            "en": "CONCLUSIONS"
+        }
+    },
+    {
+        "translation": {
+            "fr": "Les résultats sont favorables à la délégation de la pose du DIU aux prestataires de niveau intermédiaire pour améliorer l'accès au DIU en Afrique subsaharienne.",
+            "en": "The findings support task shifting of IUD insertion to mid-level providers to improve IUD access in Sub-Saharan Africa."
+        }
+    }
+]
